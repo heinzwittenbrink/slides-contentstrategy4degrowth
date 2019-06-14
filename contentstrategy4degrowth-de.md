@@ -59,6 +59,12 @@ date: 2019-06-14
 
 # Wir produzieren durch unseren Lebensstil CO2
 
+## "Imperiale Lebensweise"
+
+![](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/12/2/1449046370471/4d8525a5-be37-4d04-a275-ccdbd30c98b7-620x431.jpeg?width=620&quality=45&auto=format&fit=max&dpr=2&s=873971462ef09511ffbd72392247dbde)
+
+<p class="rights">[World's richest 10% produce half of global carbon emissions, says Oxfam | Environment | The Guardian](https://www.theguardian.com/environment/2015/dec/02/worlds-richest-10-produce-half-of-global-carbon-emissions-says-oxfam "World's richest 10% produce half of global carbon emissions, says Oxfam | Environment | The Guardian")</p>
+
 ##
 
 ![](https://www.umweltbundesamt.de/sites/default/files/medien/361/bilder/tt_thg_crf_plus_1a_details_1.0_wide_h.png)
@@ -82,6 +88,17 @@ date: 2019-06-14
 
 [CO₂-Emissionen fallen wie seit Jahren nicht – klimareporter](https://www.klimareporter.de/deutschland/co2-emissionen-fallen-wie-seit-jahren-nicht)
 
+
+## {data-background-image="pics/klimaschutzbericht_2018.png" data-background-size="contain"}
+
+<p class="rights"><https://www.umweltbundesamt.at/fileadmin/site/publikationen/REP0660.pdf>
+</p>
+
+##
+
+> Dafür  ist  jedoch ein  weitreichender  Wandel  von  Gesellschaft  und  Wirtschaft notwendig... Der  Fokus  sollte  dabei insbesondere auf Investitionen in jene langlebigen Infrastrukturen und zukunftsfähigen Technologien liegen, die einen Ausstieg aus der Nutzung fossiler Energie ermöglichen ...
+
+[Klimaschutzbericht 2018 – Zusammenfassung Umweltbundesamt Wien 2018](https://www.umweltbundesamt.at/fileadmin/site/publikationen/REP0660.pdf)
 
 # Wirtschaftswachstum ohne CO2-Emissionen?
 
