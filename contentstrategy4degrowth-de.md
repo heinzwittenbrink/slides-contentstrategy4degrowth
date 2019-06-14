@@ -1,14 +1,19 @@
-Fridaysforfuture
+
+---
+title: Contentstrategie für das Postwachstum
+subtitle: #LecturesForFuture
+author: Heinz Wittenbrink
+date: 2019-06-14
+
+---
+
+ridaysforfuture
 
 Was hat sich verändert?
 
-## Klimakrise jetzt
 
-##
 
-[Our oceans broke heat records in 2018 and the consequences are catastrophic | Climate change | The Guardian](https://www.theguardian.com/environment/climate-consensus-97-per-cent/2019/jan/16/our-oceans-broke-heat-records-in-2018-and-the-consequences-are-catastrophic)
 
-## Tipping points
 
 ## Keeling curve
 
@@ -24,6 +29,11 @@ Was hat sich verändert?
 ## Indien
 
 [Indian villages lie empty as drought forces thousands to flee | India | The Guardian](https://amp.theguardian.com/world/2019/jun/12/indian-villages-lie-empty-as-drought-forces-thousands-to-flee?__twitter_impression=true)
+
+##
+
+[Our oceans broke heat records in 2018 and the consequences are catastrophic | Climate change | The Guardian](https://www.theguardian.com/environment/climate-consensus-97-per-cent/2019/jan/16/our-oceans-broke-heat-records-in-2018-and-the-consequences-are-catastrophic)
+
 
 # CO2 Budget
 
