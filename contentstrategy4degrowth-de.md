@@ -1,26 +1,24 @@
 
 ---
 title: Contentstrategie für das Postwachstum
-subtitle: #LecturesForFuture
+keywords: #LecturesForFuture
 author: Heinz Wittenbrink
 date: 2019-06-14
 
 ---
 
-ridaysforfuture
-
-Was hat sich verändert?
-
-
-
-
+#
 
 ## Keeling curve
 
+![](https://scripps.ucsd.edu/programs/keelingcurve/wp-content/plugins/sio-bluemoon/graphs/mlo_full_record.png)
+
 [The Keeling Curve | A daily record of atmospheric carbon dioxide from Scripps Institution of Oceanography at UC San Diego](https://scripps.ucsd.edu/programs/keelingcurve/)
 
+## {data-background-image="pics/ipcc1.png" background-size="100%"}
 
-# Klimakatastrophe jetzt
+
+# Konsequenzen des Klimawandels
 
 ## Arktis
 
