@@ -19,6 +19,11 @@ date: 2019-06-14
 
 <p class="rights">https://www.ipcc.ch/site/assets/uploads/2018/02/AR5_SYR_FINAL_SPM.pdf</p>
 
+## {data-background-image="pics/scientific_assessment_1979.png" data-background-size="contain"}
+
+<p class="rights">
+<https://www.bnl.gov/envsci/schwartz/charney_report1979.pdf>
+</p>
 
 # Konsequenzen des Klimawandels
 
@@ -54,8 +59,23 @@ date: 2019-06-14
 
 [CO2-Budget – Wikipedia](https://de.m.wikipedia.org/wiki/CO2-Budget)
 
+##
 
+> According to the authors of A good life for all within planetary boundaries, if we divided the amount of carbon that we can still burn equally between everyone on earth, then each person could emit 1.6 tonnes of CO2 equivalent per year until 2100. That would give us a 66% chance of staying beneath 2°C of warming, generally accepted as a threshold for dangerous climate change.
 
+##
+
+> However, if you use the latest figures (as of 2018) for human population and remaining carbon budget, that falls to 1.2 tonnes of CO2 equivalent per person per year.
+
+> That’s less than a one-way economy flight from London to San Francisco.
+
+[What should be a person's average carbon footprint per year if we want to reduce and stop global warming? - Quora](https://www.quora.com/What-should-be-a-persons-average-carbon-footprint-per-year-if-we-want-to-reduce-and-stop-global-warming "What should be a person's average carbon footprint per year if we want to reduce and stop global warming? - Quora")
+
+##
+
+[![](pics/carbon_countdown_clock.png)](https://www.theguardian.com/environment/datablog/2017/jan/19/carbon-countdown-clock-how-much-of-the-worlds-carbon-budget-have-we-spent "Carbon countdown clock: how much of the world's carbon budget have we spent? | Environment | The Guardian") {width:50%}
+
+[Carbon countdown clock: how much of the world's carbon budget have we spent? | Environment | The Guardian](https://www.theguardian.com/environment/datablog/2017/jan/19/carbon-countdown-clock-how-much-of-the-worlds-carbon-budget-have-we-spent "Carbon countdown clock: how much of the world's carbon budget have we spent? | Environment | The Guardian")
 
 # Wir produzieren durch unseren Lebensstil CO2
 
