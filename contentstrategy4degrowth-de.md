@@ -152,6 +152,13 @@ date: 2019-06-14
 
 # Folgen für die Content-Strategie
 
+##
+
+- Content-Strategie war immer Teil der Wachstumsökonomie
+- Wir verstehen Content-Strategie besser, wenn wir Wachstum nicht mehr voraussetzen
+- "Content first" als Motto einer dematerialisierten Wirtschaft
+- Accessibility und progressive enhancement als Leitbilder
+
 ## Content-Strategie für Nachhaltigkeit vs. Content-Strategie für Verkauf
 
 - Reduktion des Verbrauchs
@@ -168,13 +175,13 @@ date: 2019-06-14
 - Verfügbarmachen von Daten
 - Barrierefreiheit von Argumentationen
 
-<!--
-
-# Content-Strategie für userorientiertes Campaigning
+## Content-Strategie für userorientiertes Campaigning
 
 - User-Tasks statt Botschaften
 - Orientierung an Services
 - Personen-Orientierung
+
+<!--
 
 
 
