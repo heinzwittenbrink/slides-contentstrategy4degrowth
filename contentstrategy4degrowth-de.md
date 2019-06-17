@@ -17,7 +17,7 @@ date: 2019-06-14
 
 ## {data-background-image="pics/ipcc1.png" data-background-size="contain"}
 
-<p class="rights">https://www.ipcc.ch/site/assets/uploads/2018/02/AR5_SYR_FINAL_SPM.pdf</p>
+<p class="rights"><https://www.ipcc.ch/site/assets/uploads/2018/02/AR5_SYR_FINAL_SPM.pdf></p>
 
 ## {data-background-image="pics/scientific_assessment_1979.png" data-background-size="contain"}
 
@@ -69,11 +69,11 @@ date: 2019-06-14
 
 > That’s less than a one-way economy flight from London to San Francisco.
 
-[What should be a person's average carbon footprint per y6ar if we want to reduce and stop global warming? - Quora](https://www.quora.com/What-should-be-a-persons-average-carbon-footprint-per-year-if-we-want-to-reduce-and-stop-global-warming "What should be a person's average carbon footprint per year if we want to reduce and stop global warming? - Quora")
+[What should be a person's average carbon footprint per year if we want to reduce and stop global warming? - Quora](https://www.quora.com/What-should-be-a-persons-average-carbon-footprint-per-year-if-we-want-to-reduce-and-stop-global-warming "What should be a person's average carbon footprint per year if we want to reduce and stop global warming? - Quora")
 
 ##
 
-[![](pics/carbon_countdown_clock.png){width=60%}](https://www.theguardian.com/environment/datablog/2017/jan/19/carbon-countdown-clock-how-much-of-the-worlds-carbon-budget-have-we-spent "Carbon countdown clock: how much of the world's carbon budget have we spent? | Environment | The Guardian")
+[![](pics/carbon_countdown_clock.png){width=e0%}](https://www.theguardian.com/environment/datablog/2017/jan/19/carbon-countdown-clock-how-much-of-the-worlds-carbon-budget-have-we-spent "Carbon countdown clock: how much of the world's carbon budget have we spent? | Environment | The Guardian")
 
 [Carbon countdown clock: how much of the world's carbon budget have we spent? | Environment | The Guardian](https://www.theguardian.com/environment/datablog/2017/jan/19/carbon-countdown-clock-how-much-of-the-worlds-carbon-budget-have-we-spent "Carbon countdown clock: how much of the world's carbon budget have we spent? | Environment | The Guardian")
 
@@ -180,6 +180,19 @@ date: 2019-06-14
 - User-Tasks statt Botschaften
 - Orientierung an Services
 - Personen-Orientierung
+
+
+# End Matter
+
+##
+
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+##
+
+Github repository for this presentation:
+
+[heinzwittenbrink/slides-contentstrategy4degrowth: What can content strategy do for an economy which respects planetary boundaries?](https://github.com/heinzwittenbrink/slides-contentstrategy4degrowth "heinzwittenbrink/slides-contentstrategy4degrowth: What can content strategy do for an economy which respects planetary boundaries?")
 
 <!--
 
