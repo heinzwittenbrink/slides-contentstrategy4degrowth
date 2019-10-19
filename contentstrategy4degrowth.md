@@ -1,13 +1,13 @@
 
 ---
-title: Contentstrategie für das Postwachstum
+title: Content Strategy for Degrowth
 keywords: #LecturesForFuture
 author: Heinz Wittenbrink
 date: 2019-10-19
 
 ---
 
-# Klima und CO2
+# Climate and CO2
 
 ## Keeling curve
 
@@ -55,7 +55,7 @@ date: 2019-10-19
 
 ##
 
-> Der Weltklimarat gibt das CO2-Budget in seinem 2018er Sonderbericht mit 420 Gt an, wenn das 1,5-Grad-Ziel (bezüglich der globalen Luftdurchschnittstemperatur an der Oberfläche) mit 66 % erreicht werden soll. Bei gleichbleibendem Ausstoß wäre dieses Budget in neun bis zehn Jahren aufgebraucht.[9][10]
+> In its 2018 Special Report, the Intergovernmental Panel on Climate Change estimates the CO2 budget at 420 Gt if the 1.5 degree target (in terms of global average surface air temperature) of 66 % is to be achieved. If emissions remained the same, this budget would be used up in nine to ten years.[9][10]
 
 [CO2-Budget – Wikipedia](https://de.m.wikipedia.org/wiki/CO2-Budget)
 
@@ -77,9 +77,9 @@ date: 2019-10-19
 
 [Carbon countdown clock: how much of the world's carbon budget have we spent? | Environment | The Guardian](https://www.theguardian.com/environment/datablog/2017/jan/19/carbon-countdown-clock-how-much-of-the-worlds-carbon-budget-have-we-spent "Carbon countdown clock: how much of the world's carbon budget have we spent? | Environment | The Guardian")
 
-# Wir produzieren durch unseren Lebensstil CO2
+# Our Lifestyle is CO2 intensive
 
-## "Imperiale Lebensweise"
+## "Imperial Lifestyle"
 
 ![](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/12/2/1449046370471/4d8525a5-be37-4d04-a275-ccdbd30c98b7-620x431.jpeg?width=620&quality=45&auto=format&fit=max&dpr=2&s=873971462ef09511ffbd72392247dbde)
 
@@ -92,7 +92,7 @@ date: 2019-10-19
 
 ##
 
-> Vor allem der Energiesektor mit stationären und mobilen Quellen emittiert in Deutschland Treibhausgase, besonders Kohlendioxid. Relevant sind aber auch die Emissionen der Industrieprozesse und der Landwirtschaft, letztere insbesondere durch die Freisetzung von Methan und Lachgas.
+> In particular, the energy sector with stationary and mobile sources emits greenhouse gases in Germany, especially carbon dioxide. However, emissions from industrial processes and agriculture are also relevant, the latter in particular due to the release of methane and nitrous oxide.
 
 [Emissionsquellen | Umweltbundesamt](https://www.umweltbundesamt.de/themen/klima-energie/treibhausgas-emissionen/emissionsquellen#textpart-1)
 
@@ -104,7 +104,7 @@ date: 2019-10-19
 
 ##
 
-> Das Klimaziel, Deutschlands Emissionen bis 2020 um 40 Prozent gegenüber 1990 zu senken, bleibt trotz der ausgesprochen guten 2018er-Bilanz unerreichbar.
+> The climate target of reducing Germany's emissions by 40 percent by 2020 compared to 1990 remains unattainable, especially due to the release of methane and nitrous oxide, despite the extremely good 2018 balance..
 
 [CO₂-Emissionen fallen wie seit Jahren nicht – klimareporter](https://www.klimareporter.de/deutschland/co2-emissionen-fallen-wie-seit-jahren-nicht)
 
@@ -116,11 +116,11 @@ date: 2019-10-19
 
 ##
 
-> Dafür  ist  jedoch ein  weitreichender  Wandel  von  Gesellschaft  und  Wirtschaft notwendig... Der  Fokus  sollte  dabei insbesondere auf Investitionen in jene langlebigen Infrastrukturen und zukunftsfähigen Technologien liegen, die einen Ausstieg aus der Nutzung fossiler Energie ermöglichen ...
+> For this, however, a far-reaching change in society and economy is necessary... In particular, the focus should be on investments in those long-lived infrastructures and sustainable technologies that make it possible to phase out the use of fossil energy ...
 
 [Klimaschutzbericht 2018 – Zusammenfassung Umweltbundesamt Wien 2018](https://www.umweltbundesamt.at/fileadmin/site/publikationen/REP0660.pdf)
 
-# Wirtschaftswachstum ohne CO2-Emissionen?
+# Economic growth without CO2 emissions?
 
 ## {data-background-image="pics/is_green_growth_possible.png" data-background-size="contain"}
 
@@ -150,36 +150,38 @@ date: 2019-10-19
 > while absolute decoupling of GDP from emissions is possible and is already happening in some regions, it is unlikely to happen fast enough to respect the carbon budgets for 1.5°C and 2°C against a background of continued economic growth.
 
 
-# Folgen für die Content-Strategie
+# Consequences for content strategy
 
 ##
 
-- Content-Strategie war immer Teil der Wachstumsökonomie
-- Wir verstehen Content-Strategie besser, wenn wir Wachstum nicht mehr voraussetzen
-- "Content first" als Motto einer dematerialisierten Wirtschaft
-- Accessibility und progressive enhancement als Leitbilder
+- Content strategy has always been part of the growth economy
+- We understand content strategy better when we no longer require growth
+- "Content first" as a motto of a dematerialised economy
+- Accessibility and progressive enhancement as guiding principles
 
-## Content-Strategie für Nachhaltigkeit vs. Content-Strategie für Verkauf
+## Content Strategy for Sustainability vs. Content Strategy for Sales
 
-- Reduktion des Verbrauchs
-- Unterstützung von Vernetzung
-- Verzicht auf Marketing-Plattformen
+- Reduction of consumption
+- Support for networking
+- No need for marketing platforms
 
-## Content Strategie für ökologische Transparenz
+## Content strategy for ecological transparency
 
-- Ökologischer Fußabdruck aller Produkte und Services
-- Ökologische Mission der Organisation
+- Ecological footprint of all products and services
+- Ecological mission of the organization
 
-## Content-Strategie für Daten und Wissenschaft
+## Content strategy for data and science
 
-- Verfügbarmachen von Daten
-- Barrierefreiheit von Argumentationen
+- Making data available
+- Accessibility of argumentations
 
-## Content-Strategie für userorientiertes Campaigning
+## Content strategy for user-oriented campaigning
 
-- User-Tasks statt Botschaften
-- Orientierung an Services
-- Personen-Orientierung
+- User tasks instead of messages
+- Orientation towards services
+- Orientation towards personalizied communication (Greta, XR)
+
+Translated from German with some help by <https://www.DeepL.com/Translator>
 
 
 # End Matter
