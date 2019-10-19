@@ -25,7 +25,7 @@ date: 2019-10-19
 <https://www.bnl.gov/envsci/schwartz/charney_report1979.pdf>
 </p>
 
-# Konsequenzen des Klimawandels
+# Consequences of global heating
 
 ## {data-background-image="pics/guardian_oceans.png" data-background-size="contain"}
 
@@ -51,7 +51,7 @@ date: 2019-10-19
 
 
 
-# CO2 Budget
+# CO2 budgets
 
 ##
 
@@ -71,15 +71,22 @@ date: 2019-10-19
 
 [What should be a person's average carbon footprint per year if we want to reduce and stop global warming? - Quora](https://www.quora.com/What-should-be-a-persons-average-carbon-footprint-per-year-if-we-want-to-reduce-and-stop-global-warming "What should be a person's average carbon footprint per year if we want to reduce and stop global warming? - Quora")
 
+<!--
+
 ##
 
 [![](pics/carbon_countdown_clock.png){width=e0%}](https://www.theguardian.com/environment/datablog/2017/jan/19/carbon-countdown-clock-how-much-of-the-worlds-carbon-budget-have-we-spent "Carbon countdown clock: how much of the world's carbon budget have we spent? | Environment | The Guardian")
 
-[Carbon countdown clock: how much of the world's carbon budget have we spent? | Environment | The Guardian](https://www.theguardian.com/environment/datablog/2017/jan/19/carbon-countdown-clock-how-much-of-the-worlds-carbon-budget-have-we-spent "Carbon countdown clock: how much of the world's carbon budget have we spent? | Environment | The Guardian")
+[Carbon countdown clock: how much of the world's carbon budget have we spent? | Environment | The Guardian](https://www.theguardian.com/environment/datablog/2017/jan/19/carbon-countdown-clock-how-much-of-the-worlds-carbon-budget-have-we-spent "Carbon countdown clock: how much of the world's carbon budget have we spent? | Environment | The Guardian") -->
 
-# Our Lifestyle is CO2 intensive
+##
+<p><iframe src="https://interactive.guim.co.uk/embed/aus/2017/carbon-embed" width="100%" height="500px" frameborder="0" scrolling="no"></iframe><br />
+Source: Nick Evershed, <a href="https://www.theguardian.com/environment/datablog/2017/jan/19/carbon-countdown-clock-how-much-of-the-worlds-carbon-budget-have-we-spent">Carbon countdown clock: how much of the world&#8217;s carbon budget have we spent?</a> <em>The Guardian</em>, January 19, 2017.</p>
 
-## "Imperial Lifestyle"
+
+# Our lifestyle is toxic
+
+## "Imperial lifestyle" ([Ulrich Brand](https://www.oekom.de/buch/imperiale-lebensweise-9783865818430 "Imperiale Lebensweise | oekom verlag GmbH"))
 
 ![](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/12/2/1449046370471/4d8525a5-be37-4d04-a275-ccdbd30c98b7-620x431.jpeg?width=620&quality=45&auto=format&fit=max&dpr=2&s=873971462ef09511ffbd72392247dbde)
 
@@ -104,7 +111,7 @@ date: 2019-10-19
 
 ##
 
-> The climate target of reducing Germany's emissions by 40 percent by 2020 compared to 1990 remains unattainable, especially due to the release of methane and nitrous oxide, despite the extremely good 2018 balance..
+> The climate target of reducing Germany's emissions by 40 percent by 2020 compared to 1990 remains unattainable, especially due to the release of methane and nitrous oxide, despite the extremely good 2018 balance.
 
 [CO₂-Emissionen fallen wie seit Jahren nicht – klimareporter](https://www.klimareporter.de/deutschland/co2-emissionen-fallen-wie-seit-jahren-nicht)
 
