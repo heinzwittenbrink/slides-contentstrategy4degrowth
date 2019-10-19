@@ -3,7 +3,7 @@
 title: Contentstrategie für das Postwachstum
 keywords: #LecturesForFuture
 author: Heinz Wittenbrink
-date: 2019-06-14
+date: 2019-10-19
 
 ---
 
