@@ -4,8 +4,14 @@ title: Content Strategy for Degrowth
 keywords: #LecturesForFuture
 author: Heinz Wittenbrink
 date: 2019-10-19
+bibliography: contentstrategy4degrowth.bib
 
 ---
+
+
+## Creatives for climate
+
+<iframe width="1129" height="630" src="https://www.youtube.com/embed/ZsLJEfS4Yms" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Climate and CO2
 
@@ -24,6 +30,22 @@ date: 2019-10-19
 <p class="rights">
 <https://www.bnl.gov/envsci/schwartz/charney_report1979.pdf>
 </p>
+
+
+# Leaving the holocene
+
+## {data-background="pics/greatacceleration2015igbpsrc_june2015lowres-1024x714.jpg" data-background-size="contain"}
+
+##
+
+<https://www.unternehmensgruen.org/wp-content/uploads/2016/11/PlanetareGrenzen_Gerten_PIK.pdf>
+
+##
+
+![](pics/hothouse_F1.large.jpg)
+
+Steffen, W., Broadgate, W., Deutsch, L., Gaffney, O., & Ludwig, C. (2015). The trajectory of the Anthropocene: The Great Acceleration. The Anthropocene Review, 2(1), 81–98. https://doi.org/10.1177/2053019614564785
+
 
 # Consequences of global heating
 
@@ -172,6 +194,12 @@ Source: Nick Evershed, <a href="https://www.theguardian.com/environment/datablog
 - Support for networking
 - No need for marketing platforms
 
+##
+
+> "But if you ask what is the kind of economy we want at this point, particularly in the developed economies, it makes sense to expand in the services that improve our lives, like health, education, social care, recreation, culture and crafts.
+
+[Rio+20: Tim Jackson on how fear led world leaders to betray green economy | Guardian Sustainable Business | The Guardian](https://www.theguardian.com/sustainable-business/rio-20-tim-jackson-leaders-green-economy "Rio+20: Tim Jackson on how fear led world leaders to betray green economy | Guardian Sustainable Business | The Guardian")
+
 ## Content strategy for ecological transparency
 
 - Ecological footprint of all products and services
@@ -187,6 +215,10 @@ Source: Nick Evershed, <a href="https://www.theguardian.com/environment/datablog
 - User tasks instead of messages
 - Orientation towards services
 - Orientation towards personalizied communication (Greta, XR)
+
+##
+
+
 
 Translated from German with some help by <https://www.DeepL.com/Translator>
 
