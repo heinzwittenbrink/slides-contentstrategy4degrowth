@@ -1,6 +1,6 @@
 ---
 title: Content Strategy and Scientific Truth
-author: Heinz wittenbrink
+author: Heinz Wittenbrink
 date: 2020-01-31
 
 ---
@@ -41,6 +41,8 @@ https://uh.edu/~garson/Truth%20and%20Meaning.pdf
 ![](https://news.harvard.edu/wp-content/uploads/2018/10/HLS-Graphic.jpg)
 
 # Merchants of Doubt
+
+##
 
 ![](https://bilder.buecher.de/produkte/32/32435/32435247n.jpg)
 
