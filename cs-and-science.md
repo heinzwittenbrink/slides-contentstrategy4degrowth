@@ -1,5 +1,8 @@
 ---
 title: Content Strategy and Scientific Truth
+author: Heinz wittenbrink
+date: 2020-01-31
+
 ---
 
 # Content and Truth
@@ -11,7 +14,7 @@ sense we can give to the phrase, to understanding the language.
 
 https://uh.edu/~garson/Truth%20and%20Meaning.pdf
 
----
+##
 
 > ... that the speakers of a language can effective
 ly determine the meaning or meanings of an arbitrary expression ..., and that it is the central task of a theory of meaning to
@@ -33,21 +36,21 @@ https://uh.edu/~garson/Truth%20and%20Meaning.pdf
 
 > The model, created with data from the media sources most cited during and after the election period, shows that left-wing media outlets are more closely aligned with centrist media outlets, and right-wing media sources are much more skewed and “are operating in their own media world,” Roberts said. The researchers found that this pattern was evident during the election and was even more pronounced during the first year of Donald Trump’s presidency.
 
----
+##
 
 ![](https://news.harvard.edu/wp-content/uploads/2018/10/HLS-Graphic.jpg)
 
-## Merchants of Doubt
+# Merchants of Doubt
 
 ![](https://bilder.buecher.de/produkte/32/32435/32435247n.jpg)
 
----
+##
 
 > While the idea of equal time for opposing opinions makes sense in a two-party political system, it does not work for science, because science is not about opinion. It is about evidence.
 
 https://www.goodreads.com/author/quotes/142427.Naomi_Oreskes
 
----
+##
 
 > It may not be persuasive to everyone, but people are much more likely to accept factual information from those they can relate to or have a human connection with.
 
@@ -82,9 +85,11 @@ https://www.goodreads.com/author/quotes/142427.Naomi_Oreskes
 
 # "Designing for Trust"
 
+##
+
 [Find tactics for trust — in the footer - Margot Bloomstein - Medium](https://medium.com/@mbloomstein/find-tactics-for-trust-in-the-footer-fdf7a1d9021f "Find tactics for trust — in the footer - Margot Bloomstein - Medium")
 
----
+##
 
 ![](https://image.slidesharecdn.com/designingfortrustinanuncertainworldaeadc-190729153723/95/designing-for-trust-in-an-uncertain-world-an-event-apart-dc-1-638.jpg?cb=1564415000)
 
@@ -117,6 +122,4 @@ http://www.kolleg-postwachstum.de/sozwgmedia/dokumente/Berichte/Wachstumszw%C3%A
 
 ## Stakeholders: Civil society, government, companies
 
----
-
-Wie können der userorientierte Ansatz der Contenstrategie und die wissenschaftlicher Wahrheitsanspruch miteinander verbunden werden?
+How can the user-oriented approach of content strategy and the scientific truth claim be combined?
