@@ -36,6 +36,10 @@ Ich beginne mit einer Folie, die zu einem Projekt namens die große Beschleunigu
 
 [![](https://www.rawstory.com/wp-content/uploads/2016/12/Antarcticas-Larsen-C-Ice-Shelf-Youtube.jpg){width=100%}](https://www.rawstory.com/2018/04/hope-mourning-anthropocene-understanding-ecological-grief/)
 
+[Hope and mourning in the Anthropocene: Understanding ecological grief](https://theconversation.com/hope-and-mourning-in-the-anthropocene-understanding-ecological-grief-88630 "Hope and mourning in the Anthropocene: Understanding ecological grief")
+
+[Climate change: 'We've created a civilisation hell bent on destroying itself – I'm terrified', writes Earth scientist](https://theconversation.com/climate-change-weve-created-a-civilisation-hell-bent-on-destroying-itself-im-terrified-writes-earth-scientist-113055 "Climate change: 'We've created a civilisation hell bent on destroying itself – I'm terrified', writes Earth scientist")
+
 
 
 ::: notes
