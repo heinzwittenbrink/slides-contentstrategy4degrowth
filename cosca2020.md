@@ -25,6 +25,25 @@ Ich beginne mit einer Folie, die zu einem Projekt namens die große Beschleunigu
 
 [![](https://www.pnas.org/content/pnas/115/33/8252/F2.medium.gif){width=100%}](https://www.pnas.org/content/115/33/8252/tab-figures-data)
 
+
+## Ecological grief und planetare Gesundheit
+
+[![](https://www.rawstory.com/wp-content/uploads/2016/12/Antarcticas-Larsen-C-Ice-Shelf-Youtube.jpg){width=100%}](https://www.rawstory.com/2018/04/hope-mourning-anthropocene-understanding-ecological-grief/)
+
+---
+
+> The concept of planetary health is based on the understanding that human health and human civilisation depend on flourishing natural systems and the wise stewardship of those natural systems. However, natural systems are being degraded to an extent unprecedented in human history.
+
+[Safeguarding human health in the Anthropocene epoch: report of The Rockefeller Foundation–Lancet Commission on planetary health](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(15%2960901-1/fulltext "Safeguarding human health in the Anthropocene epoch: report of The Rockefeller Foundation–Lancet Commission on planetary health - The Lancet")
+
+::: notes
+
+Bär in unserer üblichen wirtschaftsprozesse eingebunden ist, und sich vielleicht sogar wohlfühlt in den Funktionen für die Wachstums Wirtschaft, in der wir alle leben, nimmt möglicherweise oft nicht wahr, wie bedroht wir einfach als biologische Menschen oder als biologische Wesen auf der Erde sind. Vielen erscheint die Äußerung, um noch mal auch auf den heutigen Tag zu kommen, einer Greta thunberg als übertrieben oder hysterisch.
+
+Ich muss von mir selbst sagen, dass nur, weil ich mich, sozusagen kurz vor der pensionsgrenze, jetzt rein zeitlich viel intensiver mit Dingen wie dem planetaren Grenzen beschäftigen kann, mir vieles auf einmal nicht mehr selbstverständlich vorkommt, was ich vorher, als sozusagen liberaler Fortschritt Optimist, wie selbstverständlich geglaubt habe. Ich will also nicht die Leute denunzieren, die anders denken als ich das jetzt hier darstelle. Ich hätte vor ganz kurzer Zeit selbst noch dazu gehört. viele reagieren aber trotzdem auf diese Prozesse mit bekümmern. Es setzt sich untergründig etwas durch, und das hängt vielleicht auch mit der Corona Krise zusammen in der wir uns befinden und wegen der wir uns jetzt ja nur online treffen, wie Brief wie, wie Depression. Es gibt eine Unzufriedenheit mit dem Alltagsleben in dieser enorm beschleunigten Wachstums Welt, dass ich z.b. darin ausdrückt, das sehr sehr viele eigentlich ganz froh über den lockdown waren und diese Zeit eher so ziemlich es klingt als erholsam erlebt haben. Diese Depression ist vielleicht bei Jugendlichen oft noch spürbarer als bei Erwachsenen aber sie macht so etwas wie ein kulturelles grundgefühle aus. Ich glaube, dass wir gerade als Content Strategen, davon ausgehen müssen, dass die Nutzerinnen und Nutzer an die wir uns wenden, immer mehr mit dieser Grundstimmung zu tun haben werden dass sie die Verhältnisse unter denen sie leben als ungesund empfinden und darauf reagieren. Wir merken das ja schon auf der Marketing Ebene daran wie plötzlich Nachhaltigkeit betont werden und wie plötzlich Dinge die man vor einiger Zeit vielleicht noch als Öko Spinnerei abgetan hatte sozusagen in die Marketingstrategie von großen Firmen eingehen, die oft natürlich dann alles andere betreiben als tatsächlich nachhaltig zu operieren das was jetzt im folgenden sagen möchte hängt auch mit diesem Grund Gefühl der Trauer des grips.de der Vorstellung es geht etwas unrettbar verloren zu Sachen die ist schwer nachzumachen, man könnte sie auch als Illusion abtun, aber sehr viel spricht dafür dass dieses Gefühl sich immer mehr durchsetzen wird und sozusagen in fortschrittsoptimismus indem wir alle Seiten 80er 90er Jahren irgendwie befangen waren ablösen wird.
+
+:::
+
 ## Digitalisierung und Ressourcenverbrauch
 
 [![](https://www.aau.at/wp-content/uploads/2016/11/Global-DE-300x231.jpg){width=100%}](https://www.sciencedirect.com/science/article/abs/pii/S0921800909002158?via%3Dihub "Growth in global materials use, GDP and population during the 20th century - ScienceDirect")
@@ -60,23 +79,7 @@ in diesem Zusammenhang wird jetzt oft argumentiert, dass Wirtschaftswachstum bis
 :::
 
 
-## Ecological grief und planetare Gesundheit
 
-[![](https://www.rawstory.com/wp-content/uploads/2016/12/Antarcticas-Larsen-C-Ice-Shelf-Youtube.jpg){width=100%}](https://www.rawstory.com/2018/04/hope-mourning-anthropocene-understanding-ecological-grief/)
-
----
-
-> The concept of planetary health is based on the understanding that human health and human civilisation depend on flourishing natural systems and the wise stewardship of those natural systems. However, natural systems are being degraded to an extent unprecedented in human history.
-
-[Safeguarding human health in the Anthropocene epoch: report of The Rockefeller Foundation–Lancet Commission on planetary health](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(15%2960901-1/fulltext "Safeguarding human health in the Anthropocene epoch: report of The Rockefeller Foundation–Lancet Commission on planetary health - The Lancet")
-
-::: notes
-
-Bär in unserer üblichen wirtschaftsprozesse eingebunden ist, und sich vielleicht sogar wohlfühlt in den Funktionen für die Wachstums Wirtschaft, in der wir alle leben, nimmt möglicherweise oft nicht wahr, wie bedroht wir einfach als biologische Menschen oder als biologische Wesen auf der Erde sind. Vielen erscheint die Äußerung, um noch mal auch auf den heutigen Tag zu kommen, einer Greta thunberg als übertrieben oder hysterisch.
-
-Ich muss von mir selbst sagen, dass nur, weil ich mich, sozusagen kurz vor der pensionsgrenze, jetzt rein zeitlich viel intensiver mit Dingen wie dem planetaren Grenzen beschäftigen kann, mir vieles auf einmal nicht mehr selbstverständlich vorkommt, was ich vorher, als sozusagen liberaler Fortschritt Optimist, wie selbstverständlich geglaubt habe. Ich will also nicht die Leute denunzieren, die anders denken als ich das jetzt hier darstelle. Ich hätte vor ganz kurzer Zeit selbst noch dazu gehört. viele reagieren aber trotzdem auf diese Prozesse mit bekümmern. Es setzt sich untergründig etwas durch, und das hängt vielleicht auch mit der Corona Krise zusammen in der wir uns befinden und wegen der wir uns jetzt ja nur online treffen, wie Brief wie, wie Depression. Es gibt eine Unzufriedenheit mit dem Alltagsleben in dieser enorm beschleunigten Wachstums Welt, dass ich z.b. darin ausdrückt, das sehr sehr viele eigentlich ganz froh über den lockdown waren und diese Zeit eher so ziemlich es klingt als erholsam erlebt haben. Diese Depression ist vielleicht bei Jugendlichen oft noch spürbarer als bei Erwachsenen aber sie macht so etwas wie ein kulturelles grundgefühle aus. Ich glaube, dass wir gerade als Content Strategen, davon ausgehen müssen, dass die Nutzerinnen und Nutzer an die wir uns wenden, immer mehr mit dieser Grundstimmung zu tun haben werden dass sie die Verhältnisse unter denen sie leben als ungesund empfinden und darauf reagieren. Wir merken das ja schon auf der Marketing Ebene daran wie plötzlich Nachhaltigkeit betont werden und wie plötzlich Dinge die man vor einiger Zeit vielleicht noch als Öko Spinnerei abgetan hatte sozusagen in die Marketingstrategie von großen Firmen eingehen, die oft natürlich dann alles andere betreiben als tatsächlich nachhaltig zu operieren das was jetzt im folgenden sagen möchte hängt auch mit diesem Grund Gefühl der Trauer des grips.de der Vorstellung es geht etwas unrettbar verloren zu Sachen die ist schwer nachzumachen, man könnte sie auch als Illusion abtun, aber sehr viel spricht dafür dass dieses Gefühl sich immer mehr durchsetzen wird und sozusagen in fortschrittsoptimismus indem wir alle Seiten 80er 90er Jahren irgendwie befangen waren ablösen wird.
-
-:::
 
 # Content-Strategie als Teil der Wachstums-Ökonomie
 
