@@ -17,6 +17,14 @@ Ich beginne mit einer Folie, die zu einem Projekt namens die große Beschleunigu
 
 :::
 
+---
+
+[![](https://www.stockholmresilience.org/images/18.3110ee8c1495db74432636f/1459560224012/PB_FIG33_media_11jan2015_web2.jpg)](https://www.stockholmresilience.org/research/planetary-boundaries/planetary-boundaries/about-the-research/the-nine-planetary-boundaries.html)
+
+---
+
+[![](https://www.pnas.org/content/pnas/115/33/8252/F2.medium.gif)](https://www.pnas.org/content/115/33/8252/tab-figures-data)
+
 ## Digitalisierung und Ressourcenverbrauch
 
 [![](https://www.aau.at/wp-content/uploads/2016/11/Global-DE-300x231.jpg)](https://www.sciencedirect.com/science/article/abs/pii/S0921800909002158?via%3Dihub "Growth in global materials use, GDP and population during the 20th century - ScienceDirect")
@@ -28,6 +36,13 @@ Ich beginne mit einer Folie, die zu einem Projekt namens die große Beschleunigu
 Das haben wir als im weitesten Sinne in der digitalen Welt arbeitende du mit diesem planetaren Grenzen zu tun? es ist klar und es ist wohl eigentlich trivial, dass jede und jeder von uns, die in einem Wirtschaftsunternehmen oder in Verbindung mit der Wirtschaft arbeiten, dich z.b. bei einer sogenannten wirtschaftsnahen Fachhochschule, in irgendeiner Weise in diese Prozesse die zur großen Beschleunigung gehören involviert sind, als Konsumenten auch im Bereich unserer Arbeit und natürlich vor allem als Mitwirkende angießen wachstumsprozessen. wir nehmen diese Verbindung aber oft nicht wirklich wahr wir beschäftigen uns mit ihm halten mit Informationen dabei wird der ganze materielle Hintergrund nicht sichtbar in gewisser Weise würde sogar systematisch verborgen so dass wir auf den Heimweg haben wir beschäftigen uns sozusagen mit rein geistigen Ding und Ding die man sich materiell nicht auswirken mit viehs zum Teil auch hat heißt immateriellen Gütern. Das ist aber eine große Illusion. Fast alles was wir tun hat auch materielle Konsequenzen. Es beginnt damit, ein ganz triviale Zusammenhang, dass wir Strom verbrauchen und zwar so viel Strom, dass die i gesamten beginne rad even Energie in der Erde nicht ausreichen um nur den Strom für das Internet im Moment zu produzieren. Vor einiger Zeit gab es die Meldung dass allein ein Creed so viel Energie braucht wie eine Stadt Fahrt mit einem kleinen PKW wir sind also schon mit unserem arbeitsinstrument nicht unschuldig. Die materiellen Instrumente also z.b. ein Handy ein Computer brauchen auch Ressourcen und zwar bekommen da heute vielleicht noch öfter drauf wahnsinnig viel. Aber viel wichtiger ist wahrscheinlich, dass das was dann damit produziert wird Tourismus Flugzeuge Nahrungsmittel Dinge die irgendwo verkauft werden Mode und so weiter Ressourcen verbraucht und zwar in exponentiellen Wachstum begriffen immer mehr Ressourcen und das ist kaum einer Tätigkeit gibt die mit diesem Ressourcenverbrauch nicht zusammenhält. Das gilt natürlich insbesondere für jede Art von Marketing und Content Marketing, aber das gilt auch dafür wenn man z.b. sich einfach damit beschäftigt wie man die Prozesse an einem Flughafen besser organisiert oder um auf ein Beispiel hierzu kommen wenn man für den ADAC arbeitet, den die Autoindustrie ist einer der allergrößten Konsumenten von nicht wiederherstellbar and Ressourcen wir können uns sozusagen gar nicht herausnehmen und wir sind alle und gerade gerade in der Sonnenstraße fidya wirtschaftsnah ist in ganz besonders intensiven Maße involviert ich will auf diese involvierung jetzt nicht weiter eingehen weil das ein eigenes Thema ist aber es ist einfach entscheidendes und sehr wichtiges Thema.
 
 :::
+
+---
+
+> The only unambiguous way we can use digital technologies for sustainability reasons is not by pursuing greater efficiency, but by enabling greater sufficiency in human action and degrowth in material consumption. How can the digital revolution be reconceptualised to serve a sufficiency revolution?
+
+[Digitalization, Efficiency and the Rebound Effect](https://www.resilience.org/stories/2017-02-22/digitalization-efficiency-and-the-rebound-effect/ "Digitalization, Efficiency and the Rebound Effect - Resilience")
+
 
 ## Die Illusion der Entkoppelung
 
@@ -47,9 +62,17 @@ in diesem Zusammenhang wird jetzt oft argumentiert, dass Wirtschaftswachstum bis
 
 [![](https://www.rawstory.com/wp-content/uploads/2016/12/Antarcticas-Larsen-C-Ice-Shelf-Youtube.jpg)](https://www.rawstory.com/2018/04/hope-mourning-anthropocene-understanding-ecological-grief/)
 
+---
+
+> The concept of planetary health is based on the understanding that human health and human civilisation depend on flourishing natural systems and the wise stewardship of those natural systems. However, natural systems are being degraded to an extent unprecedented in human history.
+
+[Safeguarding human health in the Anthropocene epoch: report of The Rockefeller Foundation–Lancet Commission on planetary health](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15%2960901-1/fulltext "Safeguarding human health in the Anthropocene epoch: report of The Rockefeller Foundation–Lancet Commission on planetary health - The Lancet")
+
 ::: notes
 
-Bär in unserer üblichen wirtschaftsprozesse eingebunden ist, und sich vielleicht sogar wohlfühlt in den Funktionen für die Wachstums Wirtschaft, in der wir alle leben, nimmt möglicherweise oft nicht wahr, wie bedroht wir einfach als biologische Menschen oder als biologische Wesen auf der Erde sind. Vielen erscheint die Äußerung, um noch mal auch auf den heutigen Tag zu kommen, einer Greta thunberg als übertrieben oder hysterisch. Ich muss von mir selbst sagen, dass nur, weil ich mich, sozusagen kurz vor der pensionsgrenze, jetzt rein zeitlich viel intensiver mit Dingen wie dem planetaren Grenzen beschäftigen kann, mir vieles auf einmal nicht mehr selbstverständlich vorkommt, was ich vorher, als sozusagen liberaler Fortschritt Optimist, wie selbstverständlich geglaubt habe. Ich will also nicht die Leute denunzieren, die anders denken als ich das jetzt hier darstelle. Ich hätte vor ganz kurzer Zeit selbst noch dazu gehört. viele reagieren aber trotzdem auf diese Prozesse mit bekümmern. Es setzt sich untergründig etwas durch, und das hängt vielleicht auch mit der Corona Krise zusammen in der wir uns befinden und wegen der wir uns jetzt ja nur online treffen, wie Brief wie, wie Depression. Es gibt eine Unzufriedenheit mit dem Alltagsleben in dieser enorm beschleunigten Wachstums Welt, dass ich z.b. darin ausdrückt, das sehr sehr viele eigentlich ganz froh über den lockdown waren und diese Zeit eher so ziemlich es klingt als erholsam erlebt haben. Diese Depression ist vielleicht bei Jugendlichen oft noch spürbarer als bei Erwachsenen aber sie macht so etwas wie ein kulturelles grundgefühle aus. Ich glaube, dass wir gerade als Content Strategen, davon ausgehen müssen, dass die Nutzerinnen und Nutzer an die wir uns wenden, immer mehr mit dieser Grundstimmung zu tun haben werden dass sie die Verhältnisse unter denen sie leben als ungesund empfinden und darauf reagieren. Wir merken das ja schon auf der Marketing Ebene daran wie plötzlich Nachhaltigkeit betont werden und wie plötzlich Dinge die man vor einiger Zeit vielleicht noch als Öko Spinnerei abgetan hatte sozusagen in die Marketingstrategie von großen Firmen eingehen, die oft natürlich dann alles andere betreiben als tatsächlich nachhaltig zu operieren das was jetzt im folgenden sagen möchte hängt auch mit diesem Grund Gefühl der Trauer des grips.de der Vorstellung es geht etwas unrettbar verloren zu Sachen die ist schwer nachzumachen, man könnte sie auch als Illusion abtun, aber sehr viel spricht dafür dass dieses Gefühl sich immer mehr durchsetzen wird und sozusagen in fortschrittsoptimismus indem wir alle Seiten 80er 90er Jahren irgendwie befangen waren ablösen wird.
+Bär in unserer üblichen wirtschaftsprozesse eingebunden ist, und sich vielleicht sogar wohlfühlt in den Funktionen für die Wachstums Wirtschaft, in der wir alle leben, nimmt möglicherweise oft nicht wahr, wie bedroht wir einfach als biologische Menschen oder als biologische Wesen auf der Erde sind. Vielen erscheint die Äußerung, um noch mal auch auf den heutigen Tag zu kommen, einer Greta thunberg als übertrieben oder hysterisch.
+
+Ich muss von mir selbst sagen, dass nur, weil ich mich, sozusagen kurz vor der pensionsgrenze, jetzt rein zeitlich viel intensiver mit Dingen wie dem planetaren Grenzen beschäftigen kann, mir vieles auf einmal nicht mehr selbstverständlich vorkommt, was ich vorher, als sozusagen liberaler Fortschritt Optimist, wie selbstverständlich geglaubt habe. Ich will also nicht die Leute denunzieren, die anders denken als ich das jetzt hier darstelle. Ich hätte vor ganz kurzer Zeit selbst noch dazu gehört. viele reagieren aber trotzdem auf diese Prozesse mit bekümmern. Es setzt sich untergründig etwas durch, und das hängt vielleicht auch mit der Corona Krise zusammen in der wir uns befinden und wegen der wir uns jetzt ja nur online treffen, wie Brief wie, wie Depression. Es gibt eine Unzufriedenheit mit dem Alltagsleben in dieser enorm beschleunigten Wachstums Welt, dass ich z.b. darin ausdrückt, das sehr sehr viele eigentlich ganz froh über den lockdown waren und diese Zeit eher so ziemlich es klingt als erholsam erlebt haben. Diese Depression ist vielleicht bei Jugendlichen oft noch spürbarer als bei Erwachsenen aber sie macht so etwas wie ein kulturelles grundgefühle aus. Ich glaube, dass wir gerade als Content Strategen, davon ausgehen müssen, dass die Nutzerinnen und Nutzer an die wir uns wenden, immer mehr mit dieser Grundstimmung zu tun haben werden dass sie die Verhältnisse unter denen sie leben als ungesund empfinden und darauf reagieren. Wir merken das ja schon auf der Marketing Ebene daran wie plötzlich Nachhaltigkeit betont werden und wie plötzlich Dinge die man vor einiger Zeit vielleicht noch als Öko Spinnerei abgetan hatte sozusagen in die Marketingstrategie von großen Firmen eingehen, die oft natürlich dann alles andere betreiben als tatsächlich nachhaltig zu operieren das was jetzt im folgenden sagen möchte hängt auch mit diesem Grund Gefühl der Trauer des grips.de der Vorstellung es geht etwas unrettbar verloren zu Sachen die ist schwer nachzumachen, man könnte sie auch als Illusion abtun, aber sehr viel spricht dafür dass dieses Gefühl sich immer mehr durchsetzen wird und sozusagen in fortschrittsoptimismus indem wir alle Seiten 80er 90er Jahren irgendwie befangen waren ablösen wird.
 
 :::
 
@@ -145,6 +168,11 @@ Wir gehen in der Content Strategie in der Regel davon aus, das konnten nicht nur
 [![](https://www.seo-kueche.de/wp-content/uploads/2019/12/google-ranking-faktor-e.a.t.-expertise-scaled.jpg)](https://www.seo-kueche.de/blog/der-seo-faktor-e-a-t-erklaert/)
 
 ## Verantwortung und Berufsethik in der Content-Strategie
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is unfortunately no surprise. The general level of awareness is close to nonexistent. We&#39;ve simply never been informed in a way which puts the crisis in perspective.<br>And this is the very heart of the problem. No change will be possible until media <a href="https://twitter.com/hashtag/FaceTheClimateEmergency?src=hash&amp;ref_src=twsrc%5Etfw">#FaceTheClimateEmergency</a> <a href="https://t.co/dXFpTovF7X">https://t.co/dXFpTovF7X</a></p>&mdash; Greta Thunberg (@GretaThunberg) <a href="https://twitter.com/GretaThunberg/status/1308812842469150720?ref_src=twsrc%5Etfw">September 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+---
 
 > Good climate coverage eliminates the silos which confine climate coverage to the science desk and increases infrequency of reports as a regular part of every beat in every newsroom, especially weather, business, and politics.  
 
@@ -244,7 +272,7 @@ Versuche ich hier, für eine Art holistische Lebensanschauung zu werben, bei der
 
 ## Content und Lebensform
 
-[![](https://pbs.twimg.com/media/EGb7jb7WwAEhe1r?format=jpg&name=small)](https://twitter.com/jackstilgoe/status/1181908544108613633)
+[![](https://pbs.twimg.com/media/EGb7jb7WwAEhe1r?format=jpg&name=large)](https://twitter.com/jackstilgoe/status/1181908544108613633)
 
 [Das terrestrische Manifest von Bruno Latour](https://www.suhrkamp.de/buecher/das_terrestrische_manifest-bruno_latour_7362.html "Das terrestrische Manifest von Bruno Latour - Suhrkamp Insel Bücher Buchdetail")
 
