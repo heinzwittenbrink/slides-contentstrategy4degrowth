@@ -1,6 +1,6 @@
 ---
 title: Content-Strategie für die planetare Gesundheit
-author: Heinz Wittenbrink&mdash;Cosca 2020 
+author: Heinz Wittenbrink&mdash;Cosca 2020
 date: 2020-09-25
 ---
 
@@ -156,13 +156,13 @@ Will Ich jetzt damit sagen, dass wachstumsorientierung grundsätzlich problemati
 
 > eine Praxis kann eine Strategie oder eine Lebensform manifestieren, ein Text kann eine Praxis manifestieren, ebenso wie andere höhere Ebenen, und ein Zeichen kann letztlich eine ganze Lebensform manifestieren.
 
-Jacues Fontanille, [Pratiques sémiotiques](https://www.cairn.info/pratiques-semiotiques--9782130569848.htm "Pratiques sémiotiques - Jacques Fontanille | Cairn.info")
+Jacques Fontanille, [Pratiques sémiotiques](https://www.cairn.info/pratiques-semiotiques--9782130569848.htm "Pratiques sémiotiques - Jacques Fontanille | Cairn.info")
 
 ---
 
 > Die Ethik entzieht sich dem Kalkül und ersetzt ihn durch die Bedeutung eines Projekts. Die Ethik schreibt Handlungen Akteuren zu,  und diese Zuschreibung  ist um so kritischer, als sie nicht der "Absicht" dieser Akteure entspricht.
 
-Jacues Fontanille, [Pratiques sémiotiques](https://www.cairn.info/pratiques-semiotiques--9782130569848.htm "Pratiques sémiotiques - Jacques Fontanille | Cairn.info")
+Jacques Fontanille, [Pratiques sémiotiques](https://www.cairn.info/pratiques-semiotiques--9782130569848.htm "Pratiques sémiotiques - Jacques Fontanille | Cairn.info")
 
 
 ::: notes
