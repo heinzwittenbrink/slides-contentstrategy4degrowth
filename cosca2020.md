@@ -26,15 +26,17 @@ Ich beginne mit einer Folie, die zu einem Projekt namens die große Beschleunigu
 [![](https://www.pnas.org/content/pnas/115/33/8252/F2.medium.gif){width=100%}](https://www.pnas.org/content/115/33/8252/tab-figures-data)
 
 
-## Ecological grief und planetare Gesundheit
-
-[![](https://www.rawstory.com/wp-content/uploads/2016/12/Antarcticas-Larsen-C-Ice-Shelf-Youtube.jpg){width=100%}](https://www.rawstory.com/2018/04/hope-mourning-anthropocene-understanding-ecological-grief/)
-
----
+## Planetary health&mdash;ecological grief
 
 > The concept of planetary health is based on the understanding that human health and human civilisation depend on flourishing natural systems and the wise stewardship of those natural systems. However, natural systems are being degraded to an extent unprecedented in human history.
 
 [Safeguarding human health in the Anthropocene epoch: report of The Rockefeller Foundation–Lancet Commission on planetary health](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(15%2960901-1/fulltext "Safeguarding human health in the Anthropocene epoch: report of The Rockefeller Foundation–Lancet Commission on planetary health - The Lancet")
+
+---
+
+[![](https://www.rawstory.com/wp-content/uploads/2016/12/Antarcticas-Larsen-C-Ice-Shelf-Youtube.jpg){width=100%}](https://www.rawstory.com/2018/04/hope-mourning-anthropocene-understanding-ecological-grief/)
+
+
 
 ::: notes
 
