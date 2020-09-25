@@ -66,7 +66,7 @@ in diesem Zusammenhang wird jetzt oft argumentiert, dass Wirtschaftswachstum bis
 
 > The concept of planetary health is based on the understanding that human health and human civilisation depend on flourishing natural systems and the wise stewardship of those natural systems. However, natural systems are being degraded to an extent unprecedented in human history.
 
-[Safeguarding human health in the Anthropocene epoch: report of The Rockefeller Foundation–Lancet Commission on planetary health](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15%2960901-1/fulltext "Safeguarding human health in the Anthropocene epoch: report of The Rockefeller Foundation–Lancet Commission on planetary health - The Lancet")
+[Safeguarding human health in the Anthropocene epoch: report of The Rockefeller Foundation–Lancet Commission on planetary health](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(15%2960901-1/fulltext "Safeguarding human health in the Anthropocene epoch: report of The Rockefeller Foundation–Lancet Commission on planetary health - The Lancet")
 
 ::: notes
 
