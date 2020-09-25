@@ -1,5 +1,5 @@
 ---
-title: Content-Strategie und planetare Gesundheit
+title: Content-Strategie für die planetare Gesundheit
 author: Heinz Wittenbrink
 date: 2020-09-25
 ---
@@ -7,7 +7,7 @@ date: 2020-09-25
 # Wachstumsökonomie und ökologischer Zusammenbruch
 
 
-## Great Acceleration und planetare Grenzen
+## Die große Beschleunigung
 
 [![](https://www.sonnenseite.com/wp-content/uploads/2015/01/Acceleration.jpg")](http://www.anthropocene.info/great-acceleration.php)
 
@@ -19,17 +19,17 @@ Ich beginne mit einer Folie, die zu einem Projekt namens die große Beschleunigu
 
 ---
 
-[![](https://www.stockholmresilience.org/images/18.3110ee8c1495db74432636f/1459560224012/PB_FIG33_media_11jan2015_web2.jpg)](https://www.stockholmresilience.org/research/planetary-boundaries/planetary-boundaries/about-the-research/the-nine-planetary-boundaries.html)
+[![](https://www.stockholmresilience.org/images/18.3110ee8c1495db74432636f/1459560224012/PB_FIG33_media_11jan2015_web2.jpg){width=100%}](https://www.stockholmresilience.org/research/planetary-boundaries/planetary-boundaries/about-the-research/the-nine-planetary-boundaries.html)
 
 ---
 
-[![](https://www.pnas.org/content/pnas/115/33/8252/F2.medium.gif)](https://www.pnas.org/content/115/33/8252/tab-figures-data)
+[![](https://www.pnas.org/content/pnas/115/33/8252/F2.medium.gif){width=100%}](https://www.pnas.org/content/115/33/8252/tab-figures-data)
 
 ## Digitalisierung und Ressourcenverbrauch
 
-[![](https://www.aau.at/wp-content/uploads/2016/11/Global-DE-300x231.jpg)](https://www.sciencedirect.com/science/article/abs/pii/S0921800909002158?via%3Dihub "Growth in global materials use, GDP and population during the 20th century - ScienceDirect")
+[![](https://www.aau.at/wp-content/uploads/2016/11/Global-DE-300x231.jpg){width=100%}](https://www.sciencedirect.com/science/article/abs/pii/S0921800909002158?via%3Dihub "Growth in global materials use, GDP and population during the 20th century - ScienceDirect")
 
-<p class="source">[Growth in global materials use, GDP and population during the 20th century - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0921800909002158?via%3Dihub "Growth in global materials use, GDP and population during the 20th century - ScienceDirect"), quoted by [Growth in global materials use, GDP and population during the 20th century: Online global materials extraction 1900-2009 (update 2011) – Universität Klagenfurt](https://www.aau.at/blog/global-materials-extraction-1900-to-2009-update-2011/ "Growth in global materials use, GDP and population during the 20th century: Online global materials extraction 1900-2009 (update 2011) – Universität Klagenfurt")</p>
+
 
 ::: notes
 
@@ -37,11 +37,7 @@ Das haben wir als im weitesten Sinne in der digitalen Welt arbeitende du mit die
 
 :::
 
----
 
-> The only unambiguous way we can use digital technologies for sustainability reasons is not by pursuing greater efficiency, but by enabling greater sufficiency in human action and degrowth in material consumption. How can the digital revolution be reconceptualised to serve a sufficiency revolution?
-
-[Digitalization, Efficiency and the Rebound Effect](https://www.resilience.org/stories/2017-02-22/digitalization-efficiency-and-the-rebound-effect/ "Digitalization, Efficiency and the Rebound Effect - Resilience")
 
 
 ## Die Illusion der Entkoppelung
@@ -49,6 +45,12 @@ Das haben wir als im weitesten Sinne in der digitalen Welt arbeitende du mit die
 <iframe id="datawrapper-chart-USG70" style="width: 100%; border: none;" title="Material Footprint of Nations" src="https://datawrapper.dwcdn.net/USG70/3/" height="500" frameborder="0" scrolling="no" aria-label="chart"></iframe>
 
 [Andrew McAfee and the Myth of America's Green Growth](https://foreignpolicy.com/2020/06/18/more-from-less-green-growth-environment-gdp/ "Andrew McAfee and the Myth of America's Green Growth")
+
+---
+
+> The only unambiguous way we can use digital technologies for sustainability reasons is not by pursuing greater efficiency, but by enabling greater sufficiency in human action and degrowth in material consumption. How can the digital revolution be reconceptualised to serve a sufficiency revolution?
+
+[Digitalization, Efficiency and the Rebound Effect](https://www.resilience.org/stories/2017-02-22/digitalization-efficiency-and-the-rebound-effect/ "Digitalization, Efficiency and the Rebound Effect - Resilience")
 
 ::: notes
 
@@ -60,7 +62,7 @@ in diesem Zusammenhang wird jetzt oft argumentiert, dass Wirtschaftswachstum bis
 
 ## Ecological grief und planetare Gesundheit
 
-[![](https://www.rawstory.com/wp-content/uploads/2016/12/Antarcticas-Larsen-C-Ice-Shelf-Youtube.jpg)](https://www.rawstory.com/2018/04/hope-mourning-anthropocene-understanding-ecological-grief/)
+[![](https://www.rawstory.com/wp-content/uploads/2016/12/Antarcticas-Larsen-C-Ice-Shelf-Youtube.jpg){width=100%}](https://www.rawstory.com/2018/04/hope-mourning-anthropocene-understanding-ecological-grief/)
 
 ---
 
@@ -80,11 +82,11 @@ Ich muss von mir selbst sagen, dass nur, weil ich mich, sozusagen kurz vor der p
 
 ## Content als Schlüsselkomponente der digitalen Wirtschaft
 
-[![](https://image.slidesharecdn.com/kariannestinson-contentpeoplecrave-141002141609-phpapp01/95/content-people-crave-smx-east-2014-5-638.jpg?cb=1412259542)](https://de.slideshare.net/KarianneStinson/content-people-crave-smx-east-2014)
+[![](https://image.slidesharecdn.com/kariannestinson-contentpeoplecrave-141002141609-phpapp01/95/content-people-crave-smx-east-2014-5-638.jpg?cb=1412259542){width=100%}](https://de.slideshare.net/KarianneStinson/content-people-crave-smx-east-2014)
 
 ## Persuasive Funktion von Inhalten
 
-[![](https://image.slidesharecdn.com/marketingsemiotics-131021125247-phpapp01/95/an-introduction-to-marketing-semiotics-8-638.jpg?cb=1382360173)](https://www.slideshare.net/AthenaBrandWisdom/marketing-semiotics)
+[![](https://image.slidesharecdn.com/marketingsemiotics-131021125247-phpapp01/95/an-introduction-to-marketing-semiotics-8-638.jpg?cb=1382360173){width=100%}](https://www.slideshare.net/AthenaBrandWisdom/marketing-semiotics)
 
 ::: notes
 
@@ -102,7 +104,7 @@ Wir Haben es also eigentlich mit zwei verschiedenen ethischen Problem zu tun, di
 
 ## Content als Schirm vor den Material Flows
 
-[![](https://www.researchgate.net/profile/Jonathan_Herz/publication/288823372/figure/fig3/AS:645730834345984@1530965636079/Ecological-economics-views-the-economy-as-a-subset-of-the-larger-ecological-environment_W640.jpg)](https://www.researchgate.net/publication/288823372_GSA_The_New_Sustainable_Frontier_Appendix-_2009/figures?lo=1)
+[![](https://www.researchgate.net/profile/Jonathan_Herz/publication/288823372/figure/fig3/AS:645730834345984@1530965636079/Ecological-economics-views-the-economy-as-a-subset-of-the-larger-ecological-environment_W640.jpg){width=100%}](https://www.researchgate.net/publication/288823372_GSA_The_New_Sustainable_Frontier_Appendix-_2009/figures?lo=1)
 
 [Environmental Justice Atlas](https://ejatlas.org/featured/climate-debt)
 
@@ -163,11 +165,11 @@ Wir gehen in der Content Strategie in der Regel davon aus, das konnten nicht nur
 
 :::
 
-## Organisationsinhalte und Medienethik
+## Content-Qualität und Medienethik
 
-[![](https://www.seo-kueche.de/wp-content/uploads/2019/12/google-ranking-faktor-e.a.t.-expertise-scaled.jpg)](https://www.seo-kueche.de/blog/der-seo-faktor-e-a-t-erklaert/)
+[![](https://www.seo-kueche.de/wp-content/uploads/2019/12/google-ranking-faktor-e.a.t.-expertise-scaled.jpg){width=100%}](https://www.seo-kueche.de/blog/der-seo-faktor-e-a-t-erklaert/)
 
-## Verantwortung und Berufsethik in der Content-Strategie
+## Verantwortung und Berufsethik
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is unfortunately no surprise. The general level of awareness is close to nonexistent. We&#39;ve simply never been informed in a way which puts the crisis in perspective.<br>And this is the very heart of the problem. No change will be possible until media <a href="https://twitter.com/hashtag/FaceTheClimateEmergency?src=hash&amp;ref_src=twsrc%5Etfw">#FaceTheClimateEmergency</a> <a href="https://t.co/dXFpTovF7X">https://t.co/dXFpTovF7X</a></p>&mdash; Greta Thunberg (@GretaThunberg) <a href="https://twitter.com/GretaThunberg/status/1308812842469150720?ref_src=twsrc%5Etfw">September 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -231,7 +233,7 @@ Für die Verantwortbarkeit meiner Inhalte müssen neutrale oder objektve Instanz
 
 :::
 
-## Regenerativität der Produkte und Services
+## Regenerative Produkte und Services
 
 [![](https://www.umweltbundesamt.at/fileadmin/bilder/zs/recycling.svg){width=50%}](https://www.umweltbundesamt.at/kreislaufwirtschaft)
 
@@ -243,7 +245,7 @@ hierzu gehören natürlich in erster Linie alle die Services, z.b. im kehr und G
 
 :::
 
-## Regenerativität der Inhalte
+## Regenerative Inhalte
 
 * [World Wide Waste - Gerry McGovern](https://gerrymcgovern.com/worldwidewaste/ "World Wide Waste - Gerry McGovern")
 * [LOW←TECH MAGAZINE](https://solar.lowtechmagazine.com/ "LOW←TECH MAGAZINE")
@@ -259,7 +261,7 @@ Die Inhalte selbst dürfen für ihre Kommunikation nur die unbedingt nötigen un
 # Content-Branche und Rebellion
 
 
-## Content-Strateginnen als Agenten der Transformation
+## Agenten der Transformation
 
 [![](https://cdn.geekwire.com/wp-content/uploads/2019/07/IMG_25901-630x420.jpg)](https://www.geekwire.com/2020/amazon-fires-two-employees-called-climate-change-reform-better-warehouse-conditions/)
 
@@ -274,7 +276,7 @@ Versuche ich hier, für eine Art holistische Lebensanschauung zu werben, bei der
 
 [![](https://pbs.twimg.com/media/EGb7jb7WwAEhe1r?format=jpg&name=large)](https://twitter.com/jackstilgoe/status/1181908544108613633)
 
-[Das terrestrische Manifest von Bruno Latour](https://www.suhrkamp.de/buecher/das_terrestrische_manifest-bruno_latour_7362.html "Das terrestrische Manifest von Bruno Latour - Suhrkamp Insel Bücher Buchdetail")
+[Bruno Latour: Das terrestrische Manifest](https://www.suhrkamp.de/buecher/das_terrestrische_manifest-bruno_latour_7362.html "Das terrestrische Manifest von Bruno Latour - Suhrkamp Insel Bücher Buchdetail")
 
 ::: notes
 
