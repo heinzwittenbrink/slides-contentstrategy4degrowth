@@ -1,6 +1,6 @@
 ---
 title: Content-Strategie für die planetare Gesundheit
-author: Heinz Wittenbrink
+author: Heinz Wittenbrink&mdash;Cosca 2020 
 date: 2020-09-25
 ---
 
