@@ -128,6 +128,7 @@ Diese Meteor hilflos, ich habe das gerade schon angesprochen, sind oft mit groß
 
 * [User journeys should feel invisible | Shopify UX](https://ux.shopify.com/user-journeys-should-feel-invisible-293381711589 "User journeys should feel invisible | by Amelie Sirois | Sep, 2020 | Shopify UX")
 * [Content Strategist, Facebook](https://www.facebook.com/careers/jobs/416584662559976/ "Content Strategist, Product | Poslovi na Facebooku")
+* [Reimagining Your Omnichannel Content Strategy for Exponential Growth – CIDM](https://www.infomanagementcenter.com/product/reimagining-your-omnichannel/ "Reimagining Your Omnichannel Content Strategy for Exponential Growth – CIDM")
 * [15 Examples of Brands With Brilliant Omni-Channel Experiences](https://blog.hubspot.com/service/omni-channel-experience "15 Examples of Brands With Brilliant Omni-Channel Experiences")
 * [Das "FISH"-Modell und der "Content Radar" - Zwei Strategie Tools](https://scompler.com/das-fish-modell-und-der-content-radar-zwei-strategie-tools-fuers-content-marketing-2/ "Das "FISH"-Modell und der "Content Radar" - Zwei Strategie Tools")
 
