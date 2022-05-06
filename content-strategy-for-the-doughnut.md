@@ -1,14 +1,13 @@
 ---
-title: Content-Strategie für die planetare Gesundheit
-author: Heinz Wittenbrink&mdash;Cosca 2020
-date: 2020-09-25
-bibliography: /home/heinz/Nextcloud/Library/Meine Bibliothek.json
+title: Content strategy for the Doughnut
+author: Heinz Wittenbrink
+date: 2022-05-06
 ---
 
-# Wachstumsökonomie und ökologischer Zusammenbruch
+# Economic growth and ecological collapse
 
 
-## Die große Beschleunigung
+## The great acceleration
 
 [![](https://www.sonnenseite.com/wp-content/uploads/2015/01/Acceleration.jpg")](http://www.anthropocene.info/great-acceleration.php)
 
@@ -19,13 +18,17 @@ Ich beginne mit einer Folie, die zu einem Projekt namens *Die große Beschleunig
 
 :::
 
----
+—
+## Planetary boundaries
 
-[![](https://www.stockholmresilience.org/images/18.3110ee8c1495db74432636f/1459560224012/PB_FIG33_media_11jan2015_web2.jpg){width=100%}](https://www.stockholmresilience.org/research/planetary-boundaries/planetary-boundaries/about-the-research/the-nine-planetary-boundaries.html)
+![](pics/planetary-boundaries-cover-1620.jpg) 
 
----
+—
+## Hothouse earth?
 
-[![](https://www.pnas.org/content/pnas/115/33/8252/F2.medium.gif)](pics/trajectories-2.webp)  
+
+![](pics/trajectories-2.png)
+
 
 
 
@@ -59,7 +62,7 @@ Diese große Beschleunigung führt dazu, und das haben dann zum Teil genau die s
 
 ---
 
-[![](https://www.rawstory.com/wp-content/uploads/2016/12/Antarcticas-Larsen-C-Ice-Shelf-Youtube.jpg){width=100%}](https://www.rawstory.com/2018/04/hope-mourning-anthropocene-understanding-ecological-grief/)
+![](pics/hope-and-mourning-in-the-anthropocene.png)
 
 [Hope and mourning in the Anthropocene: Understanding ecological grief](https://theconversation.com/hope-and-mourning-in-the-anthropocene-understanding-ecological-grief-88630 "Hope and mourning in the Anthropocene: Understanding ecological grief")
 
@@ -77,9 +80,11 @@ Viele reagieren aber trotzdem auf diese Prozesse mit Kummer und Trauer. Es setzt
 
 :::
 
-## Digitalisierung und Ressourcenverbrauch
+## Digitisation and resource consumption
 
-[![](https://www.aau.at/wp-content/uploads/2016/11/Global-DE-300x231.jpg){width=100%}](https://www.sciencedirect.com/science/article/abs/pii/S0921800909002158?via%3Dihub "Growth in global materials use, GDP and population during the 20th century - ScienceDirect")
+![](pics/global-materials-extraction.jpg)
+
+https://www.sciencedirect.com/science/article/abs/pii/S0921800909002158?via%3Dihub "Growth in global materials use, GDP and population during the 20th century - ScienceDirect")
 
 
 
@@ -94,9 +99,13 @@ Fast alles, was wir tun, hat auch materielle Konsequenzen. Das beginnt damit, ei
 
 
 
-## Die Illusion der Entkoppelung
+## The illusion of decoupling
 
+<!--
 <iframe id="datawrapper-chart-USG70" style="width: 100%; border: none;" title="Material Footprint of Nations" src="https://datawrapper.dwcdn.net/USG70/3/" height="500" frameborder="0" scrolling="no" aria-label="chart"></iframe>
+-->
+
+![](pics/material-footprints-of-nations.png) 
 
 [Andrew McAfee and the Myth of America's Green Growth](https://foreignpolicy.com/2020/06/18/more-from-less-green-growth-environment-gdp/ "Andrew McAfee and the Myth of America's Green Growth")
 
@@ -116,13 +125,13 @@ In diesem Zusammenhang wird jetzt oft argumentiert, dass Wirtschaftswachstum bis
 
 
 
-# Content-Strategie als Teil der Wachstums-Ökonomie
+# Content strategy as a part of the growth economy
 
-## Content als Schlüsselkomponente der digitalen Wirtschaft
+## Content as a key component of digital economy
 
 [![](https://image.slidesharecdn.com/kariannestinson-contentpeoplecrave-141002141609-phpapp01/95/content-people-crave-smx-east-2014-5-638.jpg?cb=1412259542){width=100%}](https://de.slideshare.net/KarianneStinson/content-people-crave-smx-east-2014)
 
-## Persuasive Funktion von Inhalten
+## Persuasive functions of content
 
 [![](https://image.slidesharecdn.com/marketingsemiotics-131021125247-phpapp01/95/an-introduction-to-marketing-semiotics-8-638.jpg?cb=1382360173){width=100%}](https://www.slideshare.net/AthenaBrandWisdom/marketing-semiotics)
 
@@ -143,7 +152,7 @@ Wir Haben es also eigentlich mit zwei verschiedenen ethischen Problem zu tun, di
 
 :::
 
-## Content als Schirm vor den Material Flows
+## Content as a cover for material flows
 
 [![](https://www.researchgate.net/profile/Jonathan_Herz/publication/288823372/figure/fig3/AS:645730834345984@1530965636079/Ecological-economics-views-the-economy-as-a-subset-of-the-larger-ecological-environment_W640.jpg){width=100%}](https://www.researchgate.net/publication/288823372_GSA_The_New_Sustainable_Frontier_Appendix-_2009/figures?lo=1)
 
@@ -165,7 +174,7 @@ Diese Meteor hilflos, ich habe das gerade schon angesprochen, sind oft mit groß
 
 :::
 
-## Wachstumsorientierung der Disziplin Content-Strategie
+## Growth addiction in the discipline of content strategy 
 
 * [User journeys should feel invisible | Shopify UX](https://ux.shopify.com/user-journeys-should-feel-invisible-293381711589 "User journeys should feel invisible | by Amelie Sirois | Sep, 2020 | Shopify UX")
 * [Content Strategist, Facebook](https://www.facebook.com/careers/jobs/416584662559976/ "Content Strategist, Product | Poslovi na Facebooku")
@@ -182,17 +191,17 @@ Will Ich jetzt damit sagen, dass wachstumsorientierung grundsätzlich problemati
 :::
 
 
-# Strategische Dimension und Ethik
+# Strategic dimension and ethics
 
-## Strategie und Taktik
+## Strategy and tactics
 
-> eine Praxis kann eine Strategie oder eine Lebensform manifestieren, ein Text kann eine Praxis manifestieren, ebenso wie andere höhere Ebenen, und ein Zeichen kann letztlich eine ganze Lebensform manifestieren.
+> a practice can manifest a strategy or a way of life, a text can manifest a practice, as well as other higher levels, and a sign can ultimately manifest a whole way of life.
 
 Jacques Fontanille, [Pratiques sémiotiques](https://www.cairn.info/pratiques-semiotiques--9782130569848.htm "Pratiques sémiotiques - Jacques Fontanille | Cairn.info")
 
 ---
 
-> Die Ethik entzieht sich dem Kalkül und ersetzt ihn durch die Bedeutung eines Projekts. Die Ethik schreibt Handlungen Akteuren zu,  und diese Zuschreibung  ist um so kritischer, als sie nicht der "Absicht" dieser Akteure entspricht.
+> Ethics eludes calculation and replaces it with the meaning of a project. Ethics attributes actions to actors, and this attribution is all the more critical because it does not correspond to the "intention" of these actors.
 
 Jacques Fontanille, [Pratiques sémiotiques](https://www.cairn.info/pratiques-semiotiques--9782130569848.htm "Pratiques sémiotiques - Jacques Fontanille | Cairn.info")
 
@@ -209,11 +218,13 @@ Deshalb ist die ethische Dimension eines Produkts oder eines Services von den mi
 
 :::
 
-## Content-Qualität und Medienethik
+## Content quality and media ethics
 
-[![](https://www.seo-kueche.de/wp-content/uploads/2019/12/google-ranking-faktor-e.a.t.-expertise-scaled.jpg){width=100%}](https://www.seo-kueche.de/blog/der-seo-faktor-e-a-t-erklaert/)
+![](pics/google-ranking-faktor-e.a.t.-trust-scaled-1.jpg) 
 
-## Verantwortung und Berufsethik
+<https://www.seo-kueche.de/blog/der-seo-faktor-e-a-t-erklaert/>
+
+## Professional ethics and responsibility
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is unfortunately no surprise. The general level of awareness is close to nonexistent. We&#39;ve simply never been informed in a way which puts the crisis in perspective.<br>And this is the very heart of the problem. No change will be possible until media <a href="https://twitter.com/hashtag/FaceTheClimateEmergency?src=hash&amp;ref_src=twsrc%5Etfw">#FaceTheClimateEmergency</a> <a href="https://t.co/dXFpTovF7X">https://t.co/dXFpTovF7X</a></p>&mdash; Greta Thunberg (@GretaThunberg) <a href="https://twitter.com/GretaThunberg/status/1308812842469150720?ref_src=twsrc%5Etfw">September 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -234,9 +245,13 @@ Wie können das Dilemma nicht dadurch lösen, dass wir sagen, dass wie für Serv
 
 :::
 
-# Postwachstums-Inhalte
+# Content for the doughnut
 
-## Lokale Relevanz vs. Globaler Markt
+## Doughnut economics
+
+![](pics/cover-doughnut-economics.png) 
+
+## Local relevance vs. global market
 
 [Reuse and Recycling - Fairphone](https://www.fairphone.com/de/impact/reuse-recycling/ "Reuse and Recycling - Fairphone")
 
@@ -247,9 +262,9 @@ Es sind nur Inhalte zu rechtfertigen, deren Konsquenzen wir einschätzen können
 :::
 
 
-## Vernetzte Kommunikation vs. Dekontextualisierung
+## Networked communication vs. decontextualisation
 
-[![](https://www.basf.com/global/images/sustainability/we-drive-sustainable-solutions/quantifying-sustainability/product-carbon-footprint/SCOTT_infographic_DE.PNG.dynamic.930w523h.e9583789f7cd5f21d63a3947ef88a07543b75874.png)](https://www.basf.com/at/de/who-we-are/sustainability/we-drive-sustainable-solutions/quantifying-sustainability/product-carbon-footprint.html)
+[![](pics/system-boundary-definition-basf.png)](https://www.basf.com/at/de/who-we-are/sustainability/we-drive-sustainable-solutions/quantifying-sustainability/product-carbon-footprint.html) @BASFMethodologyProduct2021
 
 ::: notes
 
@@ -257,17 +272,19 @@ Ich muss meine Inhalte als verbunden mit einer Vielzahl von Stakeholdern versteh
 
 Die Dekontextualisierung der Inhalte, Produkte und Services ist ein Hauptgrund dafür, dass die ökologische Situation nicht wahrgenommen wird. Zu sagen, dass die Folgen z.B. eines Autos nicht unsere Sache sind, bedeutet aktiv daran mitzuwirken, dass sich die ökologische Katastrophe fortsetzt.
 
-Diese Dekontextualisierung ist in den Nachrichten&mdash;für die, die noch Nachrichten ansehen&mdash;besonders deutlich, wenn z.B., wie es neulich der Fall war, als erstes berichtet wird, dass das reichste eine Prozent der Weltbevölkerung für 50% der bisherigen Emissionen verantwortlich ist, dann zwei Meldungen weiter über neue Subventionen für den Flugverkehr in Deutschland, und dann nochmal zwei Meldungen weiter über den Schutz der Berge angesichts des abschmelzenden Permafrost berichtet wird. Wären diese Nachrichten miteinander verbunden&mdash;und das sind jetzt nur die ganz auffälligen Querverbindungen&mdash;dann würde viel mehr im Leuten im Publikum auffallen, wie eng unser alltägliches wirtschaftliches Geschehen, und wie eng fast alle Themen, mit denen man es in der Politik zu tun hat, mit den Themen Klima, Klimaschutz, planetare Grenzen, Biodiversität und so weiter verbunden sind. Dass diese Verbindung normalerweise unterbleibt, dürfte ein Hauptgrund dafür sein, dass nach wie vor große Teile der Bevölkerung über die Dimensionen der Klimakrise und über ihre Ursachen nur ganz partiell informiert sind. Ich möchte nur an einen Tweet von Greta Thunberg von gestern Abend erinnern, aus dem hervorgeht, dass die allergrößte Zahl der Wähler in den westlichen Ländern überhaupt nicht weiß, wie viel Grad planetarer Erwärmung gerade noch zu ertragen sind und wie viele nicht.
+Diese Dekontextualisierung ist in den Nachrichten&mdash;für die, die noch Nachrichten ansehen&mdash;besonders deutlich, wenn z.B., wie es neulich der Fall war, als erstes berichtet wird, dass das reichste eine Prozent der Weltbevölkerung für 50% der bisherigen Emissionen verantwortlich ist, dann zwei Meldungen weiter über neue Subventionen für den Flugverkehr in Deutschland, und dann nochmal zwei Meldungen weiter über den Schutz der Berge angesichts des abschmelzen
+den Permafrost berichtet wird. Wären diese Nachrichten miteinander verbunden&mdash;und das sind jetzt nur die ganz auffälligen Querverbindungen&mdash;dann würde viel mehr im Leuten im Publikum auffallen, wie eng unser alltägliches wirtschaftliches Geschehen, und wie eng fast alle Themen, mit denen man es in der Politik zu tun hat, mit den Themen Klima, Klimaschutz, planetare Grenzen, Biodiversität und so weiter verbunden sind. Dass diese Verbindung normalerweise unterbleibt, dürfte ein Hauptgrund dafür sein, dass nach wie vor große Teile der Bevölkerung über die Dimensionen der Klimakrise und über ihre Ursachen nur ganz partiell informiert sind. Ich möchte nur an einen Tweet von Greta Thunberg von gestern Abend erinnern, aus dem hervorgeht, dass die allergrößte Zahl der Wähler in den westlichen Ländern überhaupt nicht weiß, wie viel Grad planetarer Erwärmung gerade noch zu ertragen sind und wie viele nicht.
 
 Für Content, der mit Produkten verbunden ist, bedeutet das, dass diese Dekontextualisierung dazu beiträgt, die vielleicht sogar oft ungewollten Nebenwirkungen von Produkten für die Ökologie zu ignorieren. Eigentlich besteht mein Hauptinteresse bei diesem Vortrag oder dieser Session darin vorzuschlagen, dass wir diese Dekontextualisierung nicht vornehmen, dass wir nicht länger sagen, dass das, was mit einem Produkt oder einen Dienst alles noch verbunden ist, nicht unsere Sache ist, weil es jenseits unseres Horizonts ist. Damit beziehe ich mich einerseits auf die Inhalte selbst, bei denen ich finde, dass wir nicht das verschweigen dürfen, was sich über ihre ökologischen Konsequenzen sagen lässt, bzw dass wir sogar dazu verpflichtet sind, Inhalte zu suchen, die uns über diese Konsequenzen aufklären. Und ich beziehe mich andererseits auf unsere Aufgaben als Mitarbeiterin und Mitarbeiter in Unternehmen oder Organisationen, die alle auch Verantwortung dafür haben, wie die Ökologie im kleinen oder großen aussieht. Wir haben eine Mitverantwortung dafür, was diese Organisationen tun, und damit dafür, dass wir diese Organisationen verändern, durch Überzeugungsarbeit durch das Bilden von Koalitionen im Unternehmen und auch durch offene Rebellion bzw., wenn ich das sagen darf, obwohl ich selbst da nicht gefährdet bin, dadurch, dass wir bestimmte Unternehmen und Branchen einfach verlassen. Ganz zu Anfang meine Berührung mit der Content-Strategie bin ich auf die schöne Formulierung gestoßen, damals durch Brigitte Radl: *Content strategists as agents of change*. Ich glaube, dass das heute in verschärftem Maß gilt. Wir sind nicht mehr nur für die Transformationen in Verbindung mit der Digitalisierung und der Orientierung an den Bedürfnissen von Benutzerinnen und Benutzern verantwortlich, sondern wir sind verantwortlich für die Umsteuerung der Wirtschaft hin zu einem Zustand der Verträglichkeit mit der Zukunft.
 
 :::
 
 
-## Wissenschaftliche Standards vs. Selbstbeglaubigung
+## Scientific standards vs. self-authorisation
 
-Nachhaltige Produkte richtig bewerben
+![](pics/life-cycle-assessment-diagram.png) 
 
+Advertising for sustainable poducts - @consumergoodsforumConsumerCommuniCationsGlossary2017
 <https://www.gs1-germany.de/fileadmin/gs1/basis_informationen/LeitfadenNachhaltigeProduktaussagen.pdf>
 
 ::: notes
@@ -276,9 +293,13 @@ Für die Verantwortbarkeit meiner Inhalte müssen neutrale oder objektve Instanz
 
 :::
 
-## Regenerative Produkte und Services
+## Regenerative products and services
 
-[![](https://www.umweltbundesamt.at/fileadmin/bilder/zs/recycling.svg){width=50%}](https://www.umweltbundesamt.at/kreislaufwirtschaft)
+
+
+@@![](pics/Circular_economy_system_philadelphia.png)
+
+@CircularEconomyPhiladelphia
 
 ::: notes
 
@@ -288,7 +309,7 @@ Hierzu gehören natürlich in erster Linie alle die Services, z.b. im Care- und 
 
 :::
 
-## Regenerative Inhalte
+## Regenerative content
 
 * [World Wide Waste - Gerry McGovern](https://gerrymcgovern.com/worldwidewaste/ "World Wide Waste - Gerry McGovern")
 * [LOW←TECH MAGAZINE](https://solar.lowtechmagazine.com/ "LOW←TECH MAGAZINE")
@@ -301,10 +322,10 @@ Die Inhalte selbst dürfen für ihre Kommunikation nur die unbedingt nötigen un
 
 :::
 
-# Content-Branche und Rebellion
+# Content industry and rebellion
 
 
-## Agenten der Transformation
+## Agents of transformation
 
 [![](https://cdn.geekwire.com/wp-content/uploads/2019/07/IMG_25901-630x420.jpg)](https://www.geekwire.com/2020/amazon-fires-two-employees-called-climate-change-reform-better-warehouse-conditions/)
 
@@ -315,11 +336,11 @@ Versuche ich hier, für eine Art holistische Lebensanschauung zu werben, bei der
 
 :::
 
-## Content und Lebensform
+## Content and form of life
 
-[![](https://pbs.twimg.com/media/EGb7jb7WwAEhe1r?format=jpg&name=large)](https://twitter.com/jackstilgoe/status/1181908544108613633)
+![](pics/latour-attractors.jpg) 
 
-[Bruno Latour: Das terrestrische Manifest](https://www.suhrkamp.de/buecher/das_terrestrische_manifest-bruno_latour_7362.html "Das terrestrische Manifest von Bruno Latour - Suhrkamp Insel Bücher Buchdetail")
+[Bruno Latour: Down to earth](http://www.bruno-latour.fr/node/754.html)
 
 ::: notes
 
