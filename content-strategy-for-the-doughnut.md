@@ -1,10 +1,11 @@
 ---
-title: Content strategy for the Doughnut
+title: Content Strategie in den planetaren Grenzen
 author: Heinz Wittenbrink
-date: 2022-05-06
+date: 2022-05-19
+link-citations: true
 ---
 
-# Economic growth and ecological collapse
+# Wirtschaftswachstum und ökonomischer Zusammenbruch
 
 
 ## The great acceleration
@@ -13,7 +14,9 @@ date: 2022-05-06
 
 ::: notes
 
-Ich beginne mit einer Folie, die zu einem Projekt namens *Die große Beschleunigung* oder *The Great Acceleration* gehört. Bei diesem Projekt wurden verschiedene Indikatoren für Wachstumsprozesse untersucht, und man sieht hier, dass seit etwa 1950 der Ressourcenverbrauch der Menschheit und alle die Aktivitäten, die zu diesem Ressourcenverbrauch führen, sich gigantisch und zum Teil exponentiell gesteigert haben. Inzwischen wird 1950 auch oft als Stichdatum für den Beginn eines neuen geologischen Zeitalters angesehen, nämlich des Anthropozän. Das Anthropozän ist deswegen ein geologisches Zeitalter, jedenfalls sagen dass diejenigen, die in die wissenschaftliche Geologie einführen wollen, weil in diesem Zeitalter der Mensch&mdash;man könnte auch sagen: die Menschheit&mdash; der entscheidende Faktor für die Gestalt der Erde bzw. der Erdoberfläche ist.
+Das Jahr 1950 wird 1950 auch oft als Stichdatum für den Beginn eines neuen geologischen Zeitalters angesehen, nämlich des Anthropozän. Das Anthropozän ist deswegen ein geologisches Zeitalter, jedenfalls sagen dass diejenigen, die in die wissenschaftliche Geologie einführen wollen, weil in diesem Zeitalter der Mensch&mdash;man könnte auch sagen: die Menschheit&mdash; der entscheidende Faktor für die Gestalt der Erde bzw. der Erdoberfläche ist. Etwa 1950 setzt ein Prozess ein, den man in den Erdsystemwissenschaft als die *Große Beschleunigung* bezeichnet hat. In dem gleichnamigen Projekt wurden verschiedene Indikatoren für Wachstumsprozesse untersucht.
+
+Ich beginne mit einer Folie, die zu einem Projekt namens *Die große Beschleunigung* oder *The Great Acceleration* gehört. Bei diesem Projekt wurden , und man sieht hier, dass seit etwa 1950 der Ressourcenverbrauch der Menschheit und alle die Aktivitäten, die zu diesem Ressourcenverbrauch führen, sich gigantisch und zum Teil exponentiell gesteigert haben. Inzwischen  
 
 
 :::
@@ -22,6 +25,16 @@ Ich beginne mit einer Folie, die zu einem Projekt namens *Die große Beschleunig
 ## Planetary boundaries
 
 ![](pics/planetary-boundaries-cover-1620.jpg) 
+
+—
+
+## Johan Rockström
+
+
+Johan Rockström:_ 10 years to transform the future of humanity -- or destabilize the planet | TED Talk — 
+
+<https://www.ted.com/talks/johan_rockstrom_10_years_to_transform_the_future_of_humanity_or_destabilize_the_planet>
+
 
 —
 ## Hothouse earth?
@@ -250,6 +263,18 @@ Wie können das Dilemma nicht dadurch lösen, dass wir sagen, dass wie für Serv
 ## Doughnut economics
 
 ![](pics/cover-doughnut-economics.png) 
+
+—
+
+
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Doughnut_%28economic_model%29.jpg/1024px-Doughnut_%28economic_model%29.jpg)
+
+---
+
+
+What is Doughnut Economics? - with Kate Raworth - YouTube — https://www.youtube.com/watch?v=kxQeb2PDz9M
+
 
 ## Local relevance vs. global market
 
