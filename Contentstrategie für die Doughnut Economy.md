@@ -142,7 +142,7 @@ Dass Wachstum notwendig ist, wird oft damit begründet, dass Milliarden von Mens
 Ausgehend vom Framework der Planetary Boundaries hat Kate Raworth ihr Modell der Doughnut-Economy entwickelt. Verbildlicht sitzt dabei die nachhaltige Wirtschaft wie ein Hefeteig zwischen zwei Grenzen: den nachhaltigen Entwicklungzielen der UN innen, den planetaren Belastungsgrenzen außen. In der Doughnut Economy geht nachhaltige Entwicklung nicht auf Kosten der Life Support Systems des Planeten, und diese werden umgekehrt nicht auf Kosten der global Armen geschützt. Es handelt sich dabei um eine Zielvorstellung, die sich aber sehr gut, z.B. für Städte und Regionen, konkretisieren lässt. Ich verwende sie hier wegen dieser Zielvorstellung zur Darstellung einer nachhaltigen Contentstrategie. Ob es in einer Wirtschaft, die dieser Zielvorstellung entspricht, Wachstum geben wird - und vor allem, wie es aussieht – und ob das Konzept der planetaren Grenzen auf gesellschaftliche Tatsachen zu wenig Rücksicht nimmt, ist dafür nicht relevant. 
 
 
-# Content strategy as a part of the growth economy
+# Contentstrategie als Teil der Wachstumswirtschaft
 
 ## Content as a key component of digital economy
 
@@ -195,7 +195,7 @@ Diese Meteor hilflos, ich habe das gerade schon angesprochen, sind oft mit groß
 
 :::
 
-## Growth addiction in the discipline of content strategy 
+## Wachstumsabhängigkeit in der Disziplin der Contenstrategie und das Problem der Skalierung
 
 * [User journeys should feel invisible | Shopify UX](https://ux.shopify.com/user-journeys-should-feel-invisible-293381711589 "User journeys should feel invisible | by Amelie Sirois | Sep, 2020 | Shopify UX")
 * [Content Strategist, Facebook](https://www.facebook.com/careers/jobs/416584662559976/ "Content Strategist, Product | Poslovi na Facebooku")
@@ -205,15 +205,26 @@ Diese Meteor hilflos, ich habe das gerade schon angesprochen, sind oft mit groß
 
 ::: notes
 
-für mich ist die entscheidende Frage, und das ist auch die Frage, die ich heute hier gerne diskutieren würde, ob man Content-Strategie überhaupt ohne den Horizont des Wachstums betragen kann. Ich gehe persönlich davon aus dass das möglich ist, und ich möchte dann im letzten Teil des Vortrags auch einige Wege dazu vorstellen, aber ich bin mir nicht ganz sicher und bin sehr interessiert an anderen Meinungen Punkt von der Entstehung her gehe ich davon aus, dass Content-Strategie eigentlich zu der oft neoliberal genannten Turbo kapitalistischen Wirtschaft gehört, die sich seit den 90er Jahren durchgesetzt hat und die ältere Form ist doch viel stärker sozialstaatlich gebunden domestizierten Kapitalismus zumindestens in wichtigen Bereichen abgelöst hat. Content Strategie verwendet Content als strategisches asset und setzt ist Ökologie ökologisch rationaler ein, als das vorher der Fall war. Sie verwendet, könnte man auch sagen, Content-Strategie im Sinne eines digitalen Designs, wären Content vorher sozusagen handwerklich bzw maximal industriell produziert wurde Punkt sie ist also von dem Wachstum, mit dem große Teile der digitalisierten Wirtschaft verbunden sind, nur sehr sehr schwer überhaupt abzutrennen. das gilt in Bereichen wie dem digitalen Marketing, mit denen die Content-Strategie zumindest eng verbunden ist, natürlich in einem ganz besonderen Ausmaß. Hier wird, wie wir alle wissen, Wachstum besonders wenig in Frage gestellt. Aber auch in allen dann Fällen ist es einfach sozusagen aufgrund der Gegebenheiten unseres Wirtschaftssystems sodass Content-Strategie in der Regel zumindest als Beitrag zu mehr Wachstum gerechtfertigt wird und dass sie meist in engen Bezug zu Marketing bzw zu marketingmöglichkeiten steht. Hör man sich firmen wshoppy frei oderein großer Teil der Content-Strategie ist eng mit Marketing oder marketingservice Firmen verbunden. Dazu kommt noch, dass die Inhalte durch die Nase Verbindung zu den Konzernen wie Google und Facebook ohnehin in marketing Maschinen eingebunden sind. Es ist nicht so einfach sich Content vorzustellen der anders funktioniert so wie es auch überhaupt nicht so ganz einfach ist, sich digitale Entwicklung und digitales Design vorzustellen, das nicht auf Wachstum und auf immer weitere Steigerung des Wachstums ausgerichtet ist Punkt im Bereich der Software ist hier für mich Linux oder sind für mich bestimmte Form von Linux ein Vorbild, bei denen man ganz bewusst sagt, dass man alte Produkte nicht einfach austauscht, ohne dass es einen zwingenden Grund dafür gibt.
+Kann man Contentstrategie betreiben, ohne damit den Ressourcenverbrauch weiter anzutreiben? Ich möchte dazu einige Vorschläge machen. Vorher möchte ich aber begründen, warum wir sie nur wachstumsunabhängig sinnvoll weiterbetreiben können.  
+
+Contentstrategie hat als Disziplin unterschiedliche Wurzeln, die leider selten reflektiert oder untersucht werden. Sie ist als Disziplin entstanden, um die Praktiken beim Umgang mit Inhalten an die Bedingungen und Möglichkeiten von Organisationen und Firmen in einer digitalisierten Welt anzupassen. Damit setzt sie vieles voraus, was in dieser Welt selbstverständlich ist. Anderseits war es aber immer auch das Ziel der Contentstrategie, die besonderen Ansprüche von Inhalten zu behaupten und damit redaktionelle Praktiken und das zu ihnen gehörende Wissen in die neuen Kontexte von digitalisierten Unternehmen zu übertragen. Contentstrateginnen und -strategen verstehen sich als Anwälte der Inhalte und der Menschen, die diese Inhalte benutzen. Sie handeln dabei nicht unbedingt in Opposition zu den Zielen der Organisationen, für die sie tätig sind, denn Inhalte sind ein wichtiger Beitrag, um diese Ziele zu erreichen. 
+
+Contentstrateginnen und -strategen befinden sich also in einer ähnlich widersprüchlichen Rolle wie Designer und Architekten. Allerdings wird diese Rolle selten so gründlich reflektiert wie in älteren und etablierteren Disziplinen. Da es für sie oft nötig ist, sich selbst in einer Umgebung zu vermarkten, in denen eine nicht skalierbare Tätigkeit schwer zu rechtfertigen ist, neigen sie zur Überanpassung. 
+
+In der Contentstrategie wird Effizienz, die Möglichkeit der Skalierung von Lösungen, oft für etwas als solches Gutes gehalten. Sie wird nicht in Bezug dazu gebracht, damit Ressourcen für anderes zu gewinnen, sondern als Mittel zur Steigerung von Erlösen verstanden und angepriesen. Damit werden Inhalte aber zwangsläufig dekontextualisiert bzw in den Kontext des überall identischen Wesens vor seinem Bildschirm versetzt.
+
+Von der Entstehung her gehe ich davon aus, dass Content-Strategie eigentlich zu der oft neoliberal genannten Turbo kapitalistischen Wirtschaft gehört, die sich seit den 90er Jahren durchgesetzt hat und die ältere Form ist doch viel stärker sozialstaatlich gebunden domestizierten Kapitalismus zumindestens in wichtigen Bereichen abgelöst hat. Content Strategie verwendet Content als strategisches asset und setzt ist Ökologie ökologisch rationaler ein, als das vorher der Fall war. Sie verwendet, könnte man auch sagen, Content-Strategie im Sinne eines digitalen Designs, wären Content vorher sozusagen handwerklich bzw maximal industriell produziert wurde Punkt sie ist also von dem Wachstum, mit dem große Teile der digitalisierten Wirtschaft verbunden sind, nur sehr sehr schwer überhaupt abzutrennen. das gilt in Bereichen wie dem digitalen Marketing, mit denen die Content-Strategie zumindest eng verbunden ist, natürlich in einem ganz besonderen Ausmaß. Hier wird, wie wir alle wissen, Wachstum besonders wenig in Frage gestellt. Aber auch in allen dann Fällen ist es einfach sozusagen aufgrund der Gegebenheiten unseres Wirtschaftssystems sodass Content-Strategie in der Regel zumindest als Beitrag zu mehr Wachstum gerechtfertigt wird und dass sie meist in engen Bezug zu Marketing bzw zu marketingmöglichkeiten steht. Hör man sich firmen wshoppy frei oderein großer Teil der Content-Strategie ist eng mit Marketing oder marketingservice Firmen verbunden. Dazu kommt noch, dass die Inhalte durch die Nase Verbindung zu den Konzernen wie Google und Facebook ohnehin in marketing Maschinen eingebunden sind. Es ist nicht so einfach sich Content vorzustellen der anders funktioniert so wie es auch überhaupt nicht so ganz einfach ist, sich digitale Entwicklung und digitales Design vorzustellen, das nicht auf Wachstum und auf immer weitere Steigerung des Wachstums ausgerichtet ist Punkt im Bereich der Software ist hier für mich Linux oder sind für mich bestimmte Form von Linux ein Vorbild, bei denen man ganz bewusst sagt, dass man alte Produkte nicht einfach austauscht, ohne dass es einen zwingenden Grund dafür gibt.
 
 Will Ich jetzt damit sagen, dass wachstumsorientierung grundsätzlich problematisch ist? Ja genau das will ich eigentlich sagen. Das Überschreiten der planetaren Grenzen ist ein Ergebnis des Wachstums, und es wird sich nur dann in einer erfolgreichen Weise bremsen lassen oder vielleicht sogar in Teilen zurücknehmen lassen, wenn es insgesamt gelinkt das Wirtschaftssystem vom Wachstum unabhängig zu machen und in vielen Bereichen und zwisar ganz speziell in den reichen Ländern so zu einer Wirtschaft zu kommen die weniger materielle Ressourcen verbraucht als die heutige. Mitwirken an diesem Wachstum ist aus meiner Sicht grundsätzlich problematisch.p
 
 Contentstrategie hat sich als Teil *der Wirtschaft* etabliert. Die ethische Dimension von Inhalten macht es aber unmöglich, sie als solche weiterzubetreiben. Eine an inhaltlicher Qualität orientierte Contentstrategie kann die ökologisch-sozialen Folgen ihrer Aktivitäten nur ignorieren, wenn sie die Qualität von Inhalten für nicht oder nur wenig relevant erklärt und sich damit selbst aufgibt. Contentstrategie als bloßes Mittel zum (wirtschaftlichen) Zweck ist nicht nur unethisch, sondern sie riskiert auch irrelevant zu werden, je mehr Menschen gegen die ökologischen Krisen aktiv werden. 
+
+
+
 :::
 
 
-# Strategic dimension and ethics
+# Inhalte, Strategie und Ethik
 
 ## Strategy and tactics
 
@@ -356,7 +367,7 @@ Die Inhalte selbst dürfen für ihre Kommunikation nur die unbedingt nötigen un
 
 :::
 
-# Content industry and rebellion
+# Die Content-Branche und die Rebellion
 
 
 ## Agents of transformation
@@ -365,6 +376,8 @@ Die Inhalte selbst dürfen für ihre Kommunikation nur die unbedingt nötigen un
 
 
 ::: notes
+
+Wer mit Inhalte publiziert, ist  für ihre ökologischen und sozialen Folgen von Inhalten mitverantwortlich – nicht nur im Sinne einer moralischen Verantwortung für alle Handlungen, sondern auch weil das Verhältnis zum oder zur Äußernden ein Teil der Inhalte ist, weil Inhalte sich überhaupt nicht ohne ihr Verhältnis zu denen, die sie äußern, verstehen lassen. Bedeutet die Forderung, dass Contentstrateginnen und -strategen, ethisch, und das heisst auch: ökologisch, verantwortlich agieren, dass man sie einem allgemeingültigen ethischen Kanon unterwirft, einer Art genereller politischer Korrektheit? Eine solche Interpretation beruht auf einem Missverständnis. Verantwortlich für die Folgen von Inhalten zu sein, bedeutet, ihre Folgen in einer bestimmten, begrenzten Situation zu berücksichtigen, also gerade nicht nur oder vor allem auf eine globale Norm zu achten. 
 
 Versuche ich hier, für eine Art holistische Lebensanschauung zu werben, bei der irgendwie alles mit allem verbunden ist und dabei einem bestimmten moralischen Anspruch unterworfen wird? Es geht mir um das Gegenteil, um lokalen, verantwortbaren und kontrollierbaren Content. Es geht mir nicht um ein vorindustrielles Verhältnis zu den Inhalten, sondern um die verantwortbare postindustrielle Verwendung von Inhalten in lokalen und von verschiedenen Stakeholdern kontrollierten Kontexten.
 
