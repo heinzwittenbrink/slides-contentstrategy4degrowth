@@ -1,10 +1,20 @@
-Gedankengang:
+---
+title: Contenstrategie für die Doughnut Economy
+author: Heinz Wittenbrink
+date: 2022-05-31
+link-citations: true
+---
+
+
+# Contenstrategie für die Doughnut Economy
+
+Contentstrategie ist bisher ein kleiner Teil der *großen Beschleunigung*. Damit ist sie so wenig überlebensfähig wie eine Wirtschaft, die die Bewohnbarkeit des Planeten gefährdet. Die Alternative dazu ist eine Contentstrategie, die lokales, verantwortliches, regeneratives Handeln unterstützt. Sie ist auf Wiedernutzbarkeit ausgerichtet, minmalistisch und offen für unterschiedliche Kontexte. Sie gehört in den Kontext von Erzählungen der Krise, des Verlusts und der Resilienz. 
 
 ## Doughnut-Economy: eine Alternative zur Zerstörung des Planeten
 
-Seit diesem Frühjahr wissen wir, dass die Erde zwei weitere der neun planetaren Grenzen überschritten hat - die für "grünes Süsswasser" und die für neartige, also technisch erzeugte Substanzen. Die Überschreitung der Grenze für das Süsswasser in der Wurzelzone der Vegetation bedeutet: Im globalen Durchschnitt erhalten die Wurzeln der Pflanzen deutlich mehr oder weniger Wasser als noch vor wenigen Jahrzehnten. Das überfordert ihre Fähigkeit, sich anzupassen. Mit der Überschreitung der Grenze für "Novel Substances" ist gemeint: Die Masse der von Menschen künstlich erzeugten Stoffe – von den Antibiotika bis zum Mikroplastik – ist so groß, dass sie Anpassungsfähigkeit der Ökosysteme im globalen Maßstab überfordert und zu überall auf dem Planeten spürbaren ökologischen Veränderungen führen wird.
+Seit diesem Frühjahr wissen wir, dass die Erde zwei weitere der neun planetaren Belastungsgrenzen überschritten hat - die Grenze für "grünes Wasser" und die Grenze für neuartige, also technisch erzeugte Substanzen. Die Überschreitung der Grenze für *grünes Wasser* – das Süsswasser in der Wurzelzone der Vegetation – bedeutet: Im globalen Durchschnitt erhalten die Wurzeln der Pflanzen deutlich mehr oder weniger Wasser als noch vor wenigen Jahrzehnten. Das überfordert ihre Fähigkeit, sich anzupassen. Mit der Überschreitung der Grenze für "Novel Substances" ist gemeint: Die Masse der von Menschen künstlich erzeugten Stoffe – von den Antibiotika bis zum Mikroplastik – ist so groß, dass sie zu überall auf dem Planeten spürbaren und irreversiblen ökologischen Veränderungen führen wird.
 
-"Süßwasser" und "neuartige Substanzen" bezeichnen zwei der neun planetaren Grenzen, die Erdsystemwissenschaftler seit 2009 herausgearbeitet haben. Die Überschreitung dieser Grenzen führt dazu, dass das Erdsystem einen neuen Gleichgewichtszustand anstrebt. Er wird sich von dem Zustand unterscheiden, in dem sich die menschliche Zivilisation entwickelt hat, dem des Holozän. Die Gesellschaften müssen auf diese Veränderungen reagieren. Noch ist es möglich einen Zustand zu erreichen, der dem Holozän ähnlich ist – aber von menschlichen Interventionen, von "human stewardship" abhängig ist. 
+"Süßwasser" und "neuartige Substanzen" bezeichnen zwei der neun planetaren Grenzen, die Erdsystemwissenschaftler seit 2009 herausgearbeitet haben. Die Überschreitung dieser Grenzen führt dazu, dass das Erdsystem einen bestehenden Zustand relativen Gleichgewichts verlässt. Das Erdsystem unterscheidet sich schon jetzt deutlich von dem Zustand, in dem sich die menschliche Zivilisation entwickelt hat, dem des Holozän. Die Gesellschaften müssen auf diese Veränderungen reagieren. Noch ist es möglich im Anthropozän – wie die neue Epoche von vielen Erdsystemwissenschaftlern genannt wird – einen Zustand zu erreichen, der dem Holozän ähnlich ist, aber von menschlichen Interventionen, von "human stewardship" abhängig ist. 
 
 Das öffentlich am deutlichsten sichtbarste Ergebnis einer Überschreitung der planetaren Grenzen ist die Klimakrise. Die Verbrennung von Kohle, Gas und Öl, die veränderte Landnutzung durch die industrielle Landwirtschaft und das Bauen mit Zement emittieren soviel CO2, Methan und Stickoxid in die Atmosphäre, dass die Temperaturen schneller ansteigen als in der gesamten bekannten Menschheitsgeschichte. Es hängt von den nächsten Jahren ab, ob dieser Prozess noch so gebremst wird, dass ein Kollaps der menschlichen Zivilisation vermieden werden kann. 
 
@@ -18,7 +28,7 @@ Kate Raworth hat mit der "Doughnut Economy" eine Alternative zu diesem Modell ei
 
 Die Doughnut Economy ist ein globales Modell, das sich aber auf Länder, Regionen und Städte hinunterskalieren lässt. So hat sich die Amsterdam für die Umsetzung des *Amsterdam City Doughnut* entschieden. 
 
-Ich möchte die Doughnut Economy hier als bildhafte Vorstellung für eine Wirtschaft verwenden, die die Erde als bewohnbare Planeten erhält und ein menschenwürdiges Leben für alle sicherstellt. Das Doughnut stellt die Ziele einer solchen Wirtschaft verständlich dar und es macht es möglich zu messen, ob diese Ziele erreicht werden. Dafür, wie dieses Modell umgesetzt werden kann, gibt es viele unterschiedliche Konzepte – aber um sie geht es hier nicht. 
+Ich möchte die Doughnut Economy hier als bildhafte Vorstellung für eine Wirtschaft verwenden, die die Erde als bewohnbare Planeten erhält und ein menschenwürdiges Leben für alle sicherstellt. Das Doughnut stellt die Ziele einer solchen Wirtschaft verständlich dar und es macht es möglich zu bewerten, ob diese Ziele erreicht werden. Dafür, wie dieses Modell umgesetzt werden kann, gibt es viele unterschiedliche Konzepte – aber um sie geht es hier nicht. 
 
 Ich möchte fragen, wie Contentstrategie in einer solchen Doughnut Economy aussehen könnte und was sie von dem unterscheidet, was wir jetzt als Contentstrategie praktizieren. Damit ist nicht gesagt, dass Contentstrategie von einem bestimmten Modell der Umsetzung des Doughnut abhängt.
 
@@ -30,11 +40,23 @@ Allerdings ist es sinnvoll, auf eine Einschränkung hinzuweisen: "Die Wirtschaft
 
 Der Ausdruck *Contenstrategie* bezeichnet sehr unterschiedliche Praktiken verwendet. Gemeinsam ist ihnen, dass in einer Organisation Inhalte als digitale Artefakte manipuliert und administriert werden. Notwendig ist das bisher vor allen in der technischen Dokumentation, bei der Kommunikation und Selbstdarstellung im Web und beim Online-Marketing – wobei es Überschneidungen zwischen diesen Bereichen gibt. Contentstrateginnen und -strategen besitzen die inhaltsbezogene Expertise für die Arbeiten in diesen Bereichen. Ein wichtiger Teil dieser Expertise ist Wissen über den Umgang von Userinnen und Usern mit Inhalten. 
 
-Contentstrategie ist vor allem da relevant, wo digitale Inhalte nicht das Kernangebot einer Firma oder Organisation sind, sondern andere Dienstleistungen und Produkte begleiten und unterstützen. Das Wissen von Contentstrateginnen und -strategen hat viele Ähnlichkeiten mit dem redaktionellen Wissen in Verlagen. Dieses Wissen wird aber in die Kontexte der digitalen Kommunikation von Unternehmen und anderen Organisationen übertragen.
+Contentstrategie ist vor allem da relevant, wo digitale Inhalte nicht das Kernangebot einer Firma oder Organisation sind, sondern andere Dienstleistungen und Produkte begleiten und unterstützen. Das Wissen von Contentstrateginnen und -strategen hat viele Ähnlichkeiten mit dem redaktionellen Wissen in Verlagen. Dieses Wissen wird in der Contentstrategie in die Kontexte der digitalen Kommunikation von Unternehmen und anderen Organisationen übertragen.
 
-Contenstrategie hat damit Aufgaben in der Gestaltung der Versorgungssysteme in einer digitalisierten Wirtschaft und Gesellschaft. Weder der Verkauf noch die Nutzung von Produkten und Dienstleistungen sind heute ohne digitale Inhalte möglich. Eine *Contentstrategie für die Doughnut Economy* muss Versorgungssysteme unterstützen, die mit den planetaren Grenzen, aber auch mit den Grenzen einer menschenwürdigen Versorgung aller Mitglieder einer Gesellschaft vereinbar ist, wie sie in den Sustainable Development Goals beschrieben werden. 
+Contenstrategie hat damit Aufgaben in der Gestaltung der Versorgungssysteme in einer digitalisierten Wirtschaft und Gesellschaft. Weder der Verkauf noch die Nutzung von Produkten und Dienstleistungen sind heute ohne digitale Inhalte möglich. 
 
-Ich verwende hier den Ausdruck *Versorgungssysteme*, um Contentstrategie nicht vorschnell auf Unternehmen und andere bereits bekannte Organisationsformen festzulegen. Ich übernehme diesen Ausdruck aus Arbeiten des Forschungsprojekts *Living well within limits*. Unsere derzeitigen Versorgungssysteme sind mit den planetaren Grenzen unvereinbar. Sie schaffen es aber auch nicht, die Sustainable Development Goals einzuhalten. Eine Doughnut Economy muss deshalb die Versorgungssysteme eingreifend verändern.  Über eine *Contentstrategie für die Doughnut Economy* nachzudenken bedeutet deshalb zu überlegen, welche Aufgaben Contentstrategie für ökologische und menschenwürdige Versorgungssysteme übernehmen kann. 
+In ihrer aktuellen Praxis setzt Contentstrategie meist die profitorientierte Firma oder die bürokratische Organisation voraus vor, wobei beides miteinander verbunden sein kann. Damit wendet sie sich auf der einen Seite an die Kunden und unterstützt den Verkauf oder die Nutzung von Produkten, oder an Bürgerinnen und Bürger, die ganz oder teilweise digitalisierte Verwaltung in Anspruch nehmen. Verwandt mit der Arbeit im Marketing von Firmen sind die Tätigkeiten von Contentstrateginnen und -strategen im Campaigning von NGOs und Parteien. 
+
+Allen diesen Arbeitsfeldern gemeinsam ist eine Zukunftsorientierung, bei der Contentstrategie dabei mitwirkt, eine verbesserungsbedürftige oder mangelhafte Gegenwart durch einen Zustand mit mehr und besseren Angeboten und Möglichkeiten zu ersetzen. Dabei liegt der Fokus auf dem Beitrag, den die Organisation, für die Contentstrategie betrieben wird, zu dieser besseren Zukunft leistet. Contentstrategie ist Teil des linearen Fortschritts, der von der Gegenwart in die Zukunft führt, und zu dem die Inhalte von Firmen oder Organisationen einen relevanten Beitrag leisten. Damit ist sie eine durchaus moderne Disziplin, vergleichbar mit anderen modernen Sparten des Design. 
+
+Versteht man die ökologischen Krisen, zu denen das Überschreiten der planetaren Grenze führt, nur als Anlass für eine Umsteuerung auf diesem Weg in die bessere Zukunft, dann ändert sich dadurch für die Aufgaben der Contentstategie nur wenig. Die Produkte und Dienstleistungen, für die Contentstrategie betrieben wird, werden nachhaltiger und grüner, die politischen Zielsetzungen der Verwaltungen, Parteien oder NGOs, die eine Contentstrategie benötigen, werden ökologischer. Die Aufgaben der Inhalte und die Rollen der Contentstrategie werden dadurch aber nicht in Frage gestellt. 
+
+Das Bild der Doughnut Economy steht allerdings im Widerspruch zu der Erzählung vom linearen Weg in eine bessere Zukunft. In einer Doughnut Economy sind Fortschritte möglich und da erwünscht, wo die innere Grenze des Doughnut nicht erreicht wird. Die Außengrenzen des Doughnut begrenzen dagegen quanititatives Wachstum und damit auch das, was wir als linearen Fortschritt kennen. Die Veränderungen in einer Doughnut Economy entsprechen eher denen in Ökosystemen, in denen Evolutionen stattfinden, es aber keine übergreifende Perspektive gibt, aus der heraus man von einem Gesamtfortschritt sprechen könnte. Angesichts der Risiken durch die Überschreitung der planetaren Grenzen ist die Rücknahme von Wachstumsprozessen und vor allem Resilienz erforderlich, also die Fähigkeit, Risiken zu bewältigen. Resilienz, Regeneration und Evolution, die alle mit der "biologischen" Wirklichkeit verbunden sind, passen nicht zum Modell des gerichteten "Wachstums".
+
+Diese Veränderungen in grundlegenden Bildern und Erzählungen stellen die Disziplin der Contentstrategie in Frage. Welche Firma, welches Produkt oder welche Dienstleistung trägt nicht zur weiteren Zerstörung des Planeten bei? Ist das Modell der kapitalistischen Firma selbst, die in die Zukunft investiert und damit die Zukunft vermarktet, nicht eine entscheidende Ursache für die *große Beschleunigung*, die zum Überschreiten der planetaren Belastungsgrenzen geführt hat? Passen die hierarchischen Beziehungen zwischen Firmen und Organisationen auf der einen Seite und Kundinnen/Kunden oder Regierten auf der anderen Seite in eine ökologische Kultur, bei der alle dafür verantwortlich sind, dass Ressourcen geschont werden und sich regenerieren?
+
+Um zu überlegen, welchen Platz Contentstrategie in einer Dougnut Economy hätte, ist ein gemeinsamer Bezugsrahmen nötig, der es erlaubt die Rollen zu vergleichen, die sie in der jetzigen Wirtschaft - einem *doomsday program*, wie es Kritiker genannt haben – und in alternativen Strukturen hat, die die Bewohnbarkeit des Planeten sicher. Als einen solchen Bezugsrahmen möchte ich das Konzept des *Versorgungssystem* verwenden, wie es in dem Forschungsprojekt *Living well within limits* benutzt wird. Der Ausdruck *Versorgungssysteme* legt  Contentstrategie nicht vorschnell auf Unternehmen und andere bereits bekannte Organisationsformen festzulegen. 
+
+Unsere derzeitigen Versorgungssysteme sind mit den planetaren Grenzen unvereinbar. Sie schaffen es aber auch nicht, die Sustainable Development Goals einzuhalten. Eine Doughnut Economy muss deshalb die Versorgungssysteme eingreifend verändern.    Über eine *Contentstrategie für die Doughnut Economy* nachzudenken bedeutet deshalb zu überlegen, welche Aufgaben Contentstrategie für ökologische und menschenwürdige Versorgungssysteme übernehmen kann. 
 
 ## Transparenz über Ressourcenverbrauch 
 Eine Contentstrategie für die Doughnut Economy muss vor allem daran mitwirken, dass die  Versorgung für alle Mitglieder einer Gesellschaft funktioniert und dabei nach Möglichkeit mehr Ressourcen regeneriert als verbraucht werden. Eine Voraussetzung dafür ist, dass der Ressourcenverbrauch transparent ist, und zwar in allen Aspekten und in allen Phasen. Wer Produkte oder einen Service anbietet, muss sicherstellen, dass durch dieses Angebot kein nicht wieder gut zu machender Schaden entsteht. 
@@ -43,6 +65,8 @@ Durch diese Anforderung erhält die Contenstrategie eine Ebene wissenschaftliche
 Dabei muss sichergestellt werden, dass sich Anbietende nicht selbst beglaubigen. 
 
 Für die Contentstrategie bedeutet das, das Wahrheit zu einer entscheidenden Qualität der Inhalte wird. In der vorhandenen Literatur zur Contentstrategie wird Wahrheit als Qualität von Inhalten dagegen kaum erwähnt – allenfalls als Aufgabe für Subject Matter Experts.
+
+Die rein virtuelle Realität der digitalen Medien ist mit Illusion verbunden, dass man sich dieser ethischen Dimension völlig entziehen könne. Content wird dann *Bullshit*. Bullshit ist nicht einfach falsch, sondern seine Wahrheit oder Falschheit ist irrelevant. 
 
 ## Servicedesign für regenerative Versorgung
 
@@ -68,41 +92,22 @@ Wenn man von der oft zitierten Hierarchie von Daten, Information und Wissen ausg
 
 Regenerative Versorgungssysteme sind auf die Aktivität ihrer Benutzerinnen und Benutzer angewiesen. Sie setzen oft gemeinsame Verantwortung für Ressourcen voraus. Inhalte, die solche Versorgungssysteme unterstützen, müssen deshalb einem Ethos der Verantwortung entsprechen – nicht um die Nutzerinnen und Nutzer zu erziehen, sondern um mit ihnen einen gemeinsamen Bezugsrahmen zu teilen. Außerdem sind lokale Versorgungssysteme oft so komplex und individuell, dass Beteiligung von Communities an ihrem Management und ihrer Entwicklung nötig ist. 
 
-Die ethischen Implikationen von Inhalten sind ein in der Contentstrategie selten behandeltes Thema – so wie leider auch der Wahhrheitsanspruch von Inhalten. Es spricht aber vieles dafür, dass die 
+Die ethischen Implikationen von Inhalten sind ein in der Contentstrategie selten behandeltes Thema – so wie leider auch der Wahhrheitsanspruch von Inhalten. Dabei "funktionieren" Inhalte nicht ohne eine ethische Dimension, in der sowohl die Sendenden wie die Empfangenden engagiert sind. Was wir oft mit dem Modewort "Narrativ" bezeichnen, lässt sich nicht von den Verbindungen der Inhalte zu den Handlungen ihrer Urheber und der von ihnen Adressierten lösen. Damit untrennbar verbunden sind die Dimensionen der Wahrhaftigkeit und der Glaubwürdigkeit von Inhalten. 
 
 ## Contentdesign ohne Ressourcenverschwendung
 
-## Contentstrategie jenseits des Corporate Content
+Ich habe drei Eigenschaften der Contentstrategie in einer Doughnut Economy diskutiert, die ihre Aufgaben betreffen: Transparenz über den Verbrauch von Ressourcen sicherzustellen, Inhalte für ökosystemfreundliche, regenerative Services zu designen und Communities dabei zu unterstützen, die Systeme, von denen ihr Leben abhängt, gemeinsam zu pflegen und zu entwickeln. Eine weitere Eigenschaft betrifft das Instrumentarium, mit dem die Contentstrategie diese Aufgaben erfüllt: Sie darf nicht zur Verschwendung von Ressourcen beitragen, sondern muss selbst regenerativ vorgehen. Sie darf nicht dazu beitragen, die Masse des *digital waste* noch zu vergrößern. Das betrifft einerseits die Menge der Energie und der Hardware, die für die Produktion und Nutzung von Inhalten nötig ist, für die Contentstrategien entwickelt werden, und das betrifft andererseits die Wiedernutzbarkeit dieser Inhalte selbst.
 
-Die Contentstrategie kennt ihre eigenen Voraussetzungen nicht.
+Der ökologische Fußabdruck des Netzes wird nach wie vor nicht genug diskutiert. Insgesamt verbraucht das Internet mehr Energie, als alle erneuerbaren Energiequellen zur Verfügung stellen, und das mit steigender Tendenz. Wie in der Flug- und der Bauindustrie weisen auch die Vertreterinnen und Vertreter der Digitalbranche gerne darauf hin, dass ihre Branche insgesamt relativ klein sei und sich dekarbonisieren werde. Allerdings werden gerade in dieser Branche die Fortschritte in der Effizienz der Energiegewinnung durch Rebound-Effekte aufgefressen – abgesehen von ökologisch katastrophalen Entwicklungen wie dem Bitcoin-Boom. Für die Contentstrategie ergibt sich daraus die Forderung, den Energiebedarf für Inhalte zu minimieren – also mit so wenig Daten wie möglich auszukommen – und Inhalte so zu konzipieren, dass sie sich auch mit älteren Devices nutzen lassen, so dass die Inhalte nicht zum Zwang zur permanenten Erneuerung digitaler Geräte beitragen. Durch die Untolerstützung eines *content first designs*, wie es den Anforderungen der Contentstrategie ohnehin entspricht, kann die Contentstrategie erheblich dazu beitragen, dass so wenig Daten wie möglich durch das Netz geschickt werden, und dass man diese Daten auch auf einfachen Geräten nutzen kann. Außerdem Contentstrateginnen und -strategen dafür mitveranwortlich, dass Inhalte nicht sekundär ökologisch und sozial negative Folgen haben, dass zu ihrer Nutzung also nicht Massen von Userdaten erhoben und für den Vertrieb ressourcenfressender Angebote weiterverwendet werden.
 
-Sie ist eine Praxis, die mit der Manipulation digitaler Inhalte zusammenhängt.
+Zur Ressourcenschonung trägt außerdem Minimalismus in Bezug auf die Erzeugung von Inhalten und Orientierung auf Dauerhaftigkeit bei. Je weniger Inhalte erzeugt werden, je leichter ihre Wiederverwendung gemacht wird, und je länger sie genutzt werden können, desto weniger Ressourcen verbrauchen sie. Contentstrategie ist als Disziplin vor allem entstanden ist, um die wWiederverwenbarkeit  und die Qualität von Inhalten sicherzustellen. Der ökologisch sinnvolle Minimalismus ist deshalb für sie keine willkürliche Forderung sondern ergänzt bereits bestehende Anforderungen an Inhalte. 
 
-Als Praxis setzt sie meist die Corporation, die Inhalte als Kapitalanlage ansieht, oder die bürokratische Organisation voraus vor, wobei beides miteinander verbunden sein kann. Damit wendet sie sich auf der einen Seite an den Kunden, dem sie die Angebote der Firma verkauft, oder an die "Regierten". 
+## Schlussbemerkung
 
-In diesem Modell wird Content an die Bedürfnisse einer Corporation angepasst. Eine kapitalistische corporation verkauft bessere Zukunft und macht diese damit zu einem Gegenstand wirtschaftlichen Handelns. In dieses Modell ist die Contentstrategie eingebunden. 
+Ich habe mich in diesem Aufsatz auf Contentstrategie als Teil des Service-Designs konzentriert und versucht, ihren Beitrag zu regenerativen Versorgungssystemen in einer Doughnut Economy zu charakterisieren. Im Augenblick arbeiten nur wenige Contentstraginnen und -strategen in Rollen, die auch nur entfernt diesem Konzept entsprechen. Es liegt nicht vor allem an ihnen, dass die Transformation zu einer nachhaltigen Wirtschaft noch rechtzeitig gelingt und das Risiko eines Kollaps der Zivilisation verringert werden kann. Als Mitverantwortliche haben sie aber viele Möglichkeiten, in Unternehmen und Organisationen die Verlogenheit von Inhalten in Frage zu stellen, die zur Ausbeutung von Ressourcen und zum globalen wirtschaftlichen Ungleichgewicht beitragen. Sie können rebellieren, so wie es viele Angestellte von Amazon oder Google gezeigt haben. Bisher haben dazu noch nicht viele Content-Verantwortliche den Mut. Je mehr sie die fehlende Nachhaltigkeit der Wirtschaftsprozesse erkennen, in die sie eingebunden sind, desto eher werden sie sich zusammenschließen und für Alternativen kämpfen. Dazu soll auch dieser Beitrag ermutigen. 
 
-Die Alternative ist eine Contentstrategie, die das lokale verantwortlichen Handeln unterstützt. Sie ist auf reusability ausgerichtet. Sie ist minmalistisch und offen für unterschiedliche Kontexte. 
 
-Sie gehört in den Kontext von Erzählungen der Krise, des Verlusts und der Resilienz. Im Augenblick ist Contentstrategie in eine optimistische Fortschrittsgeschichte eingebunden. 
 
-Sie ist
-
-- minimalistisch
-- befähigend
-- empathisch 
-
-Das Gegenstück zur Direktionalität des "Wachstums" sind Resilienz, Regeneration und Evolution, die alle verbunden sind mit der "biologischen" Wirklichkeit.
-
-Für die Contentstragegie ist die Frage wichtig, ob eine "Erdung" der Inhalte auch Aspekte des digitalen Handlings von Inhalten betrifft. 
-
-—
-
-## Die ethische Dimension von Inhalten
-
-Inhalte "funktionieren" nicht ohne eine ethische Dimension, in der sowohl die Sendenden wie die Empfangenden engagiert sind. Was wir oft mit dem Modewort "Narrativ" bezeichnen, lässt sich nicht von den Verbindungen der Inhalte zu den Handlungen ihrer Urheber und der von ihnen Adressierten lösen. Damit untrennbar verbunden sind die Dimensionen der Wahrhaftigkeit und der Glaubwürdigkeit von Inhalten. 
-
-Die rein virtuelle Realität der digitalen Medien ist mit Illusion verbunden, dass man sich dieser ethischen Dimension völlig entziehen könne. Content wird dann *Bullshit*. Bullshit ist nicht einfach falsch, sondern seine Wahrheit oder Falschheit ist irrelevant. 
 
 
 
